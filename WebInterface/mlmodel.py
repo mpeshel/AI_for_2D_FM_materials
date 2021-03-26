@@ -1,3 +1,11 @@
+"""
+Sheth Riya Nimish
+A0176880R
+e0235287@u.nus.edu
+Final Year Project
+
+"""
+
 import sys
 import pickle
 import docx
@@ -34,13 +42,4 @@ for i in range(lendf-1):
 
 meandf= DataFrame(averages)
 meandf.to_csv("averages.csv")
-
-
-
-    
-#pickle.dump(clf, open('model.pkl','wb'))
-
-
-#model = pickle.load(open('model.pkl','rb'))
-#print(clf.predict([[164, 2, 0, -4.53, 0.799, .235, -3.267]]))
 

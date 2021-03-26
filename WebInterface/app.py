@@ -1,3 +1,10 @@
+"""
+Sheth Riya Nimish
+A0176880R
+e0235287@u.nus.edu
+Final Year Project
+
+"""
 import numpy as np
 from flask import Flask, request, jsonify, render_template
 import pickle

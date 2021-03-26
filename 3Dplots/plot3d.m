@@ -1,3 +1,9 @@
+
+%Sheth Riya Nimish
+%A0176880R
+%e0235287@u.nus.edu
+%Final Year Project
+
 x= [
 3
 3
