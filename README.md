@@ -49,7 +49,7 @@ If you are new to Python, the easiest way of installing the prerequisites is via
   – CIF Data 
   – Crystal Graph Convolutional Nueral Netwroks.ipynb:  Jupyter notebookfor optimising and predicting the accuracy of CGCNN
   – Miscellaneous files such as the model, predict.py written by [21].
-•Web Interface
+- Web Interface
  –model.pkl: Best model obtained during training to classify materials intomagnetic and non-magnetic.
  –model2.pkl:  Best  model  obtained  during  training  to  classify  magneticmaterials into ferromagnetic and anti-ferromagnetic materials.
  –averages.csv:  Stores the average value of the data stored.
@@ -58,21 +58,21 @@ If you are new to Python, the easiest way of installing the prerequisites is via
  –index.html:  Stores the format of the app
  –mlmodel.py:  Helps in the facilitation of app.py
  –static:  Contains the fonts used in the web interface
- # •Documents
+- Documents
  –DFDP2DMatpedia.docx: Document containing results after data featurizing on 2DMatpedia.
  –DFDPC2DB.docx:  Document  containing  results  after  data  featurizingon C2DB.
  –ML.docx: Example Document containing results after Machine Learning.
  –DL.docx:  Example Document containing results after Deep Learning.
- # •Pictures:  Contains various graphics which are used in the jupyter notebooks
- # •Requirements  Text:  The  python  libraries  which  are  needed  to  execute  mycode.
- # •Data:
- –Miscellaneous Data:  Data(NM/M)for ML, DL
+- Pictures:  Contains various graphics which are used in the jupyter notebooks
+- Requirements  Text:  The  python  libraries  which  are  needed  to  execute  mycode.
+- Data:
+- Miscellaneous Data:  Data(NM/M)for ML, DL
  –CIF Data for CGCNN
  –DatawithFM/AFMClassification.csv
  –Data.json json file obtained from 2Dmatpdia
  –c2db.db a database obtained from computational 2d materials databse
- # •Surface Plots:  Matlab Code
- # •MEGNET
+- Surface Plots:  Matlab Code
+- MEGNET
  –Graph Network.ipynb: Jupyter notebook to compute the accuracy of theMEGNET model.
 
 ## Usage
