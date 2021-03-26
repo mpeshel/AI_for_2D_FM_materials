@@ -46,9 +46,9 @@ If you are new to Python, the easiest way of installing the prerequisites is via
 - Machine Learning.ipynb:  Jupyter notebook used for conducting classical ma-chine learning
 - Deep  Learning.ipynb:  Jupyter  notebook  used  for  conducting  deep  learningalgorithms.
 - CGCNN
-– CIF Data 
-– Crystal Graph Convolutional Nueral Netwroks.ipynb:  Jupyter notebookfor optimising and predicting the accuracy of CGCNN
-– Miscellaneous files such as the model, predict.py written by [21].
+  – CIF Data 
+  – Crystal Graph Convolutional Nueral Netwroks.ipynb:  Jupyter notebookfor optimising and predicting the accuracy of CGCNN
+  – Miscellaneous files such as the model, predict.py written by [21].
 •Web Interface
  –model.pkl: Best model obtained during training to classify materials intomagnetic and non-magnetic.
  –model2.pkl:  Best  model  obtained  during  training  to  classify  magneticmaterials into ferromagnetic and anti-ferromagnetic materials.
