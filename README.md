@@ -22,7 +22,6 @@ The three techniques are:
   - [MEGNET](#megnet)
   - [CGCNN](#cgcnn)
 - [Web Interface](#wi)
-- [Data](#data)
 - [Authors](#authors)
 
 
@@ -80,13 +79,13 @@ If you are new to Python, the easiest way of installing the prerequisites is via
 ### Data Featurizing
 The code that was used for data featurizing is used in jupyter notebook python. The jupyter notebook was preferred to a general python script because it could be executed in a chunk wise manner and user friendly manner.
 To use the same code as used in this report, it should be ensured that data is either in the format of a .csv or a .json and it is in the same folder as the jupyter notebook. Enter the file name and type of the file in the notebook, and enter a few other input parameters while running the jupyter notebook such as whether imputation needs to be performed or not and if the number of data needs to be reduced and if yes, by how much.
-After the jupyter notebook is executed, a document DFDP-Results.docx will be saved in the same folder which will give an in-depth analysis of everything that took place during the processes of data featurizing and data-preprocessing. Furthermore, there will be another document DataAfterDFDP.csv which will store the prepared data that can then be used for machine learning and deep learning algorithms.
+After the jupyter notebook is executed, a document DFDP-Results.docx will be saved in the same folder which will give an in-depth analysis of everything that took place during the processes of data featurizing and data-preprocessing. Furthermore, there will be another document DataAfterDFDP.csv which will store the prepared data that can then be used for machine learning and deep learning algorithms. The code here belongs to Sheth Riya Nimish.
 
 ### Classical Machine Learning
-The code that was used for machine learning is used in jupyter notebook python. Ensure your data is in the .csv format. The last column of your data should be the target feature. Once the machine learning algorithm is executed a document MachineLearning.docx will be saved and a model.pkl will be saved as well. Model.pkl is the best model obtained after trying out different algorithms and optimising parameters and the document gives a glimpse of every single result obtained for each algorithm and every instance in the optimisation process.
+The code that was used for machine learning is used in jupyter notebook python. Ensure your data is in the .csv format. The last column of your data should be the target feature. Once the machine learning algorithm is executed a document MachineLearning.docx will be saved and a model.pkl will be saved as well. Model.pkl is the best model obtained after trying out different algorithms and optimising parameters and the document gives a glimpse of every single result obtained for each algorithm and every instance in the optimisation process. The code here belongs to Sheth Riya Nimish.
 
 ### Deep Learning
-The code that was used for deep learning is used in jupyter notebook python. Ensure your data is in the .csv format. The last column of your data should be the target feature. The deep learning code has two different models, functional and sequential. The best model obtained after the optimisation by the author has already been hard-coded in one of the sections for use. It is also possible to do the optimisation process all over again but do note that it is computationally heavy and time-intensive. Once the deep learning algorithm is executed a document DeepLearning.docx will be saved. The document gives a glimpse of every single result obtained for each of the models.
+The code that was used for deep learning is used in jupyter notebook python. Ensure your data is in the .csv format. The last column of your data should be the target feature. The deep learning code has two different models, functional and sequential. The best model obtained after the optimisation by the author has already been hard-coded in one of the sections for use. It is also possible to do the optimisation process all over again but do note that it is computationally heavy and time-intensive. Once the deep learning algorithm is executed a document DeepLearning.docx will be saved. The document gives a glimpse of every single result obtained for each of the models. The code here belongs to the Sheth Riya Nimish.
 
 ### CGCNN
 Here, only the optimisation process was done by the author. The model does not belong to the author. The original model github can be found here with the detailed instructiond for usage: [cgcnn](https://github.com/txie-93/cgcnn/tree/master/data).
@@ -96,6 +95,12 @@ Here, only the optimisation process was done by the author. The model does not b
 Here, only the optimisation process was done by the author. The model does not belong to the author. The original model github can be found here with the detailed instructiond for usage: [megnet](https://github.com/materialsvirtuallab/megnet).
 
 ## Web Interface
+The best model that was obtained by the author can be found here:
+- [Model to classify into Magnetic and Non Magnetic Materials](https://github.com/RiyaBOT/ME4101A-ShethRiyaNimish/blob/master/WebInterface/model.pkl)
+- [Model to classify into Ferromagnetic and Anti-Ferromagnetuc Materials](https://github.com/RiyaBOT/ME4101A-ShethRiyaNimish/blob/master/WebInterface/model2.pkl)
+
+However, it is much easier to use the web interface created by the author for the prediction of the magnetic orientation, which can be found here:
+- [Web Interface](https://twodferromagnetism-model.herokuapp.com)
 
 ## Authors
 
