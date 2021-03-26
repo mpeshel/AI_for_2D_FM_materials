@@ -71,37 +71,37 @@ However, it is much easier to use the web interface created by the author for th
 - [Web Interface](https://twodferromagnetism-model.herokuapp.com)
 ## Files
 - Data Preparation.ipynb:  Jupyter Notebook used for data preparation
-- Machine Learning.ipynb:  Jupyter Notebook used for conducting classical ma-chine learning
-- Deep  Learning.ipynb:  Jupyter  Notebook  used  for  conducting  deep  learningalgorithms.
+- Machine Learning.ipynb:  Jupyter Notebook used for conducting classical maChine learning
+- Deep  Learning.ipynb:  Jupyter  Notebook  used  for  conducting  deep  learning algorithms.
 - CGCNN
  <br />CIF Data 
-   – Crystal Graph Convolutional Nueral Netwroks.ipynb:  Jupyter notebookfor optimising and predicting the accuracy of CGCNN
-   – Miscellaneous files such as the model, predict.py written by [21].
+  <br />Crystal Graph Convolutional Nueral Netwroks.ipynb:  Jupyter notebook for optimising and predicting the accuracy of CGCNN
+  <br />Miscellaneous files such as the model, predict.py written by.
 - Web Interface
- – model.pkl: Best model obtained during training to classify materials intomagnetic and non-magnetic.
- – model2.pkl:  Best  model  obtained  during  training  to  classify  magneticmaterials into ferromagnetic and anti-ferromagnetic materials.
- – averages.csv:  Stores the average value of the data stored.
- – data.csv:  The data used for training the above models
- – app.py:  The python file which helps in reading the input from the file.
- – index.html:  Stores the format of the app
- – mlmodel.py:  Helps in the facilitation of app.py
- – static:  Contains the fonts used in the web interface
+<br />model.pkl: Best model obtained during training to classify materials intomagnetic and non-magnetic.
+<br />model2.pkl:  Best  model  obtained  during  training  to  classify  magneticmaterials into ferromagnetic and anti-ferromagnetic materials.
+<br />averages.csv:  Stores the average value of the data stored.
+<br />data.csv:  The data used for training the above models
+<br />app.py:  The python file which helps in reading the input from the file.
+<br /> index.html:  Stores the format of the app
+<br />mlmodel.py:  Helps in the facilitation of app.py
+<br /> static:  Contains the fonts used in the web interface
 - Documents
- – DFDP2DMatpedia.docx: Document containing results after data featurizing on 2DMatpedia.
- – DFDPC2DB.docx:  Document  containing  results  after  data  featurizingon C2DB.
- – ML.docx: Example Document containing results after Machine Learning.
- – DL.docx:  Example Document containing results after Deep Learning.
+<br />DFDP2DMatpedia.docx: Document containing results after data featurizing on 2DMatpedia.
+<br />DFDPC2DB.docx:  Document  containing  results  after  data  featurizingon C2DB.
+<br /> ML.docx: Example Document containing results after Machine Learning.
+<br /> DL.docx:  Example Document containing results after Deep Learning.
 - Pictures:  Contains various graphics which are used in the jupyter notebooks
-- Requirements  Text:  The  python  libraries  which  are  needed  to  execute  mycode.
+- Requirements  Text:  The  Python  libraries  which  are  needed  to  execute  mycode.
 - Data:
-- Miscellaneous Data:  Data(NM/M)for ML, DL
- – CIF Data for CGCNN
- – DatawithFM/AFMClassification.csv
- – Data.json json file obtained from 2Dmatpdia
- – c2db.db a database obtained from computational 2d materials databse
-- Surface Plots:  Matlab Code
+<br />Miscellaneous Data:  Data(NM/M)for ML, DL
+<br />CIF Data for CGCNN
+<br />DatawithFM/AFMClassification.csv
+<br />Data.json json file obtained from 2Dmatpdia
+<br />c2db.db a database obtained from computational 2d materials databse
+<br />Surface Plots:  Matlab Code
 - MEGNET
- – Graph Network.ipynb: Jupyter notebook to compute the accuracy of the MEGNET model.
+<br />Graph Network.ipynb: Jupyter Notebook to compute the accuracy of the MEGNET model.
 ## Authors
 
 The code was primarily written by Sheth Riya Nimish who was advised by Prof. Shen Lei. 
