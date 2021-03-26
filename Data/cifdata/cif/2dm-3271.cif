@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HgSBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73912982
+_cell_length_b   8.02149043
+_cell_length_c   22.91302100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgSBr
+_chemical_formula_sum   'Hg2 S2 Br2'
+_cell_volume   871.03584681
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg1  1  0.250000  0.703155  0.473036  1
+  Hg  Hg2  1  0.750000  0.296845  0.526964  1
+  S  S3  1  0.250000  0.995072  0.486791  1
+  S  S4  1  0.750000  0.004928  0.513209  1
+  Br  Br5  1  0.250000  0.407113  0.437333  1
+  Br  Br6  1  0.750000  0.592887  0.562667  1

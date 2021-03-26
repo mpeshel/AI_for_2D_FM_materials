@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaTl(MoO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89836453
+_cell_length_b   3.90745030
+_cell_length_c   38.71183300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.02457459
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTl(MoO3)2
+_chemical_formula_sum   'Ba2 Tl2 Mo4 O12'
+_cell_volume   589.68435356
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.002437  0.993656  0.320276  1
+  Ba  Ba2  1  0.503371  0.497709  0.516998  1
+  Tl  Tl3  1  0.503591  0.490967  0.387409  1
+  Tl  Tl4  1  0.003614  0.947815  0.448227  1
+  Mo  Mo5  1  0.010426  0.013914  0.735798  1
+  Mo  Mo6  1  0.004677  0.000291  0.579653  1
+  Mo  Mo7  1  0.502482  0.495494  0.257811  1
+  Mo  Mo8  1  0.004470  0.007996  0.656052  1
+  O  O9  1  0.001907  0.499939  0.569338  1
+  O  O10  1  0.010792  0.514211  0.737699  1
+  O  O11  1  0.003898  0.062392  0.394893  1
+  O  O12  1  0.504094  0.007843  0.656241  1
+  O  O13  1  0.503567  0.594779  0.447872  1
+  O  O14  1  0.002428  0.496075  0.255248  1
+  O  O15  1  0.502390  0.995598  0.255470  1
+  O  O16  1  0.003526  0.007300  0.503350  1
+  O  O17  1  0.503677  0.998537  0.575188  1
+  O  O18  1  0.510608  0.014437  0.737752  1
+  O  O19  1  0.003917  0.507870  0.655959  1
+  O  O20  1  0.502370  0.494326  0.308767  1

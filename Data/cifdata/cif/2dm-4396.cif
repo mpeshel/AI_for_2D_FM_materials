@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_U2Te5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17296048
+_cell_length_b   6.14978627
+_cell_length_c   33.88161700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00272101
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Te5
+_chemical_formula_sum   'U4 Te10'
+_cell_volume   869.49766927
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U1  1  0.500588  0.998492  0.651730  1
+  U  U2  1  0.500833  0.006566  0.348270  1
+  U  U3  1  0.000758  0.503037  0.443950  1
+  U  U4  1  0.000663  0.502021  0.556050  1
+  Te  Te5  1  0.500734  0.505595  0.377132  1
+  Te  Te6  1  0.500687  0.499464  0.622868  1
+  Te  Te7  1  0.000754  0.772319  0.295181  1
+  Te  Te8  1  0.000666  0.232740  0.704819  1
+  Te  Te9  1  0.000391  0.766126  0.705182  1
+  Te  Te10  1  0.500700  0.253609  0.500131  1
+  Te  Te11  1  0.000662  0.001068  0.583527  1
+  Te  Te12  1  0.001030  0.238933  0.294818  1
+  Te  Te13  1  0.500721  0.751450  0.499869  1
+  Te  Te14  1  0.000759  0.003991  0.416473  1

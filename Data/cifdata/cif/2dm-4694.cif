@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgMo2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80720501
+_cell_length_b   12.06157074
+_cell_length_c   25.93351621
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMo2O5
+_chemical_formula_sum   'Mg2 Mo4 O10'
+_cell_volume   1190.88969265
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg1  1  0.500000  0.500000  0.633316  1
+  Mg  Mg2  1  -0.000000  -0.000000  0.366684  1
+  Mo  Mo3  1  0.500000  0.355841  0.515475  1
+  Mo  Mo4  1  0.000000  0.144159  0.484525  1
+  Mo  Mo5  1  0.000000  0.855841  0.484525  1
+  Mo  Mo6  1  0.500000  0.644159  0.515475  1
+  O  O7  1  -0.000000  -0.000000  0.519706  1
+  O  O8  1  0.500000  0.500000  0.480294  1
+  O  O9  1  0.500000  0.821555  0.505759  1
+  O  O10  1  -0.000000  0.678445  0.494241  1
+  O  O11  1  -0.000000  0.321555  0.494241  1
+  O  O12  1  0.500000  0.178445  0.505759  1
+  O  O13  1  0.500000  0.374903  0.584964  1
+  O  O14  1  -0.000000  0.125097  0.415036  1
+  O  O15  1  0.500000  0.625097  0.584964  1
+  O  O16  1  -0.000000  0.874903  0.415036  1

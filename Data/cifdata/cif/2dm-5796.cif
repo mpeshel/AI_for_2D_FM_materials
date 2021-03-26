@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaTl(WO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89166449
+_cell_length_b   3.88576343
+_cell_length_c   28.33652300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   91.07942691
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTl(WO3)2
+_chemical_formula_sum   'Ba1 Tl1 W2 O6'
+_cell_volume   428.43133980
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.571758  0.503992  0.418424  1
+  Tl  Tl2  1  0.102736  0.037309  0.307056  1
+  W  W3  1  0.017147  0.991254  0.635051  1
+  W  W4  1  0.062296  0.987711  0.515247  1
+  O  O5  1  0.018646  0.491063  0.635642  1
+  O  O6  1  0.070807  0.531758  0.359637  1
+  O  O7  1  0.560848  0.978113  0.520781  1
+  O  O8  1  0.053916  0.486368  0.523054  1
+  O  O9  1  0.517598  0.990448  0.636760  1
+  O  O10  1  0.071056  0.001689  0.448349  1

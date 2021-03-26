@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BeCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25612038
+_cell_length_b   8.74796897
+_cell_length_c   22.24319677
+_cell_angle_alpha   90.02967307
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeCrO4
+_chemical_formula_sum   'Be2 Cr2 O8'
+_cell_volume   1022.75045755
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be1  1  0.168206  0.163786  0.519694  1
+  Be  Be2  1  0.831794  0.663786  0.519694  1
+  Cr  Cr3  1  0.654922  0.009811  0.495387  1
+  Cr  Cr4  1  0.345078  0.509811  0.495387  1
+  O  O5  1  0.624260  0.052805  0.426122  1
+  O  O6  1  0.883962  0.121965  0.525843  1
+  O  O7  1  0.374269  0.039505  0.531416  1
+  O  O8  1  0.741375  0.824600  0.501539  1
+  O  O9  1  0.116038  0.621965  0.525843  1
+  O  O10  1  0.375740  0.552805  0.426122  1
+  O  O11  1  0.625731  0.539505  0.531416  1
+  O  O12  1  0.258625  0.324600  0.501539  1

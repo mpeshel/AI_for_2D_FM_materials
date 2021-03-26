@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_K2Hg3(GeS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.10345633
+_cell_length_b   9.46442175
+_cell_length_c   22.95942100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   97.44245115
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Hg3(GeS4)2
+_chemical_formula_sum   'K2 Hg3 Ge2 S8'
+_cell_volume   1961.49453133
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K1  1  0.319432  0.802006  0.488016  1
+  K  K2  1  0.680568  0.197994  0.488016  1
+  Hg  Hg3  1  0.000000  0.000000  0.436048  1
+  Hg  Hg4  1  0.000000  0.500000  0.520098  1
+  Hg  Hg5  1  0.500000  0.500000  0.561226  1
+  Ge  Ge6  1  0.233582  0.271211  0.500362  1
+  Ge  Ge7  1  0.766418  0.728789  0.500362  1
+  S  S8  1  0.745292  0.904630  0.433328  1
+  S  S9  1  0.254708  0.095370  0.433328  1
+  S  S10  1  0.009328  0.239575  0.542675  1
+  S  S11  1  0.990672  0.760425  0.542675  1
+  S  S12  1  0.588579  0.750265  0.567975  1
+  S  S13  1  0.734911  0.518267  0.458958  1
+  S  S14  1  0.265089  0.481733  0.458958  1
+  S  S15  1  0.411421  0.249735  0.567975  1

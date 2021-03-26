@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Nb2CoS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.30898620
+_cell_length_b   3.30898595
+_cell_length_c   30.30535610
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001252
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2CoS4
+_chemical_formula_sum   'Nb2 Co1 S4'
+_cell_volume   287.36895402
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb1  1  0.666667  0.333333  0.620402  1
+  Nb  Nb2  1  0.333333  0.666667  0.379598  1
+  Co  Co3  1  -0.000000  0.000000  0.500000  1
+  S  S4  1  0.666667  0.333333  0.540378  1
+  S  S5  1  0.333333  0.666667  0.459622  1
+  S  S6  1  0.666667  0.333333  0.329585  1
+  S  S7  1  0.333333  0.666667  0.670415  1

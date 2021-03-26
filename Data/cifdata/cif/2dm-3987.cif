@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Lu2Te5O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88086942
+_cell_length_b   8.62972098
+_cell_length_c   24.84143016
+_cell_angle_alpha   88.01260568
+_cell_angle_beta   91.42245544
+_cell_angle_gamma   75.11370435
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Te5O13
+_chemical_formula_sum   'Lu2 Te5 O13'
+_cell_volume   1423.84957303
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu1  1  0.061109  0.278926  0.502909  1
+  Lu  Lu2  1  0.503089  0.465659  0.518282  1
+  Te  Te3  1  0.948991  0.662554  0.544825  1
+  Te  Te4  1  0.614550  0.095165  0.478051  1
+  Te  Te5  1  0.788154  0.151353  0.612667  1
+  Te  Te6  1  0.230255  0.826502  0.453717  1
+  Te  Te7  1  0.305625  0.388960  0.383996  1
+  O  O8  1  0.607414  0.350850  0.597186  1
+  O  O9  1  0.078323  0.370609  0.419675  1
+  O  O10  1  0.976670  0.769745  0.475467  1
+  O  O11  1  0.020687  0.189300  0.584430  1
+  O  O12  1  0.150729  0.036551  0.474322  1
+  O  O13  1  0.391423  0.237439  0.507353  1
+  O  O14  1  0.800967  0.528215  0.517345  1
+  O  O15  1  0.397792  0.521362  0.432327  1
+  O  O16  1  0.391217  0.735408  0.514073  1
+  O  O17  1  0.493994  0.184468  0.400141  1
+  O  O18  1  0.182460  0.494609  0.543108  1
+  O  O19  1  0.750392  0.259268  0.482389  1
+  O  O20  1  0.724244  0.014296  0.557737  1

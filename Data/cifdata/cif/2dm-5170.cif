@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaHgCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99215061
+_cell_length_b   7.35171877
+_cell_length_c   27.27092800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHgCl3
+_chemical_formula_sum   'Na2 Hg2 Cl6'
+_cell_volume   800.37906299
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na1  1  0.250000  0.606840  0.574465  1
+  Na  Na2  1  0.750000  0.393160  0.425535  1
+  Hg  Hg3  1  0.750000  0.889022  0.432053  1
+  Hg  Hg4  1  0.250000  0.110978  0.567947  1
+  Cl  Cl5  1  0.750000  0.096798  0.365940  1
+  Cl  Cl6  1  0.250000  0.635758  0.405329  1
+  Cl  Cl7  1  0.250000  0.218524  0.482958  1
+  Cl  Cl8  1  0.750000  0.364242  0.594671  1
+  Cl  Cl9  1  0.750000  0.781476  0.517042  1
+  Cl  Cl10  1  0.250000  0.903202  0.634060  1

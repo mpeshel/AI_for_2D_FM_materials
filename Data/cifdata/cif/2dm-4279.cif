@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Zn(SnN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.33570718
+_cell_length_b   3.33633288
+_cell_length_c   24.93332100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.02152232
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(SnN)2
+_chemical_formula_sum   'Zn1 Sn2 N2'
+_cell_volume   277.48364636
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn1  1  0.001930  0.001112  0.500005  1
+  Sn  Sn2  1  0.498663  0.501991  0.599112  1
+  Sn  Sn3  1  0.501608  0.510082  0.400924  1
+  N  N4  1  0.001702  0.498636  0.453098  1
+  N  N5  1  0.502929  0.001628  0.546862  1

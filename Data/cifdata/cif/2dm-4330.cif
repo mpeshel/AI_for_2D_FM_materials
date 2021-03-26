@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TmMg5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.16653994
+_cell_length_b   6.13738588
+_cell_length_c   25.40368900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   75.05027439
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmMg5
+_chemical_formula_sum   'Tm1 Mg5'
+_cell_volume   476.99177998
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm1  1  0.339450  0.321100  0.488797  1
+  Mg  Mg2  1  0.009458  0.981084  0.408975  1
+  Mg  Mg3  1  0.731091  0.537817  0.389267  1
+  Mg  Mg4  1  0.217511  0.564979  0.607129  1
+  Mg  Mg5  1  0.953035  0.093930  0.594537  1
+  Mg  Mg6  1  0.604038  0.791922  0.511295  1

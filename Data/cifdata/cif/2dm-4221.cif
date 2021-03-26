@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KRe2O4F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03985564
+_cell_length_b   5.40971614
+_cell_length_c   27.11809238
+_cell_angle_alpha   90.17271176
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRe2O4F7
+_chemical_formula_sum   'K1 Re2 O4 F7'
+_cell_volume   739.34942106
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K1  1  0.319116  0.487997  0.500000  1
+  Re  Re2  1  0.752257  0.967335  0.423379  1
+  Re  Re3  1  0.752257  0.008659  0.576621  1
+  O  O4  1  0.583691  0.242625  0.418202  1
+  O  O5  1  0.870246  0.055863  0.634813  1
+  O  O6  1  0.870246  0.920132  0.365187  1
+  O  O7  1  0.583691  0.733369  0.581798  1
+  F  F8  1  0.443385  0.768902  0.418534  1
+  F  F9  1  0.611103  0.987997  0.500000  1
+  F  F10  1  0.060559  0.864129  0.548725  1
+  F  F11  1  0.892605  0.666578  0.454373  1
+  F  F12  1  0.060559  0.111865  0.451275  1
+  F  F13  1  0.892605  0.309417  0.545627  1
+  F  F14  1  0.443385  0.207092  0.581466  1

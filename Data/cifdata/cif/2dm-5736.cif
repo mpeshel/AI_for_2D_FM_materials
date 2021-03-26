@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_NaSbMoO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59519078
+_cell_length_b   10.89725812
+_cell_length_c   27.63357200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSbMoO5
+_chemical_formula_sum   'Na4 Sb4 Mo4 O20'
+_cell_volume   1684.88073320
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na1  1  0.340310  0.357928  0.522422  1
+  Na  Na2  1  0.840310  0.142072  0.522422  1
+  Na  Na3  1  0.826980  0.857928  0.477578  1
+  Na  Na4  1  0.326980  0.642072  0.477578  1
+  Sb  Sb5  1  0.565033  0.142833  0.637040  1
+  Sb  Sb6  1  0.102257  0.857167  0.362960  1
+  Sb  Sb7  1  0.602257  0.642833  0.362960  1
+  Sb  Sb8  1  0.065033  0.357167  0.637040  1
+  Mo  Mo9  1  0.827737  0.411806  0.441053  1
+  Mo  Mo10  1  0.327737  0.088194  0.441053  1
+  Mo  Mo11  1  0.839553  0.588194  0.558947  1
+  Mo  Mo12  1  0.339553  0.911806  0.558947  1
+  O  O13  1  0.121169  0.950148  0.423240  1
+  O  O14  1  0.493739  0.797892  0.524645  1
+  O  O15  1  0.621169  0.549852  0.423240  1
+  O  O16  1  0.089423  0.972833  0.526879  1
+  O  O17  1  0.425516  0.146114  0.385735  1
+  O  O18  1  0.925516  0.353886  0.385735  1
+  O  O19  1  0.077867  0.472833  0.473121  1
+  O  O20  1  0.589423  0.527167  0.526879  1
+  O  O21  1  0.302871  0.719077  0.387738  1
+  O  O22  1  0.046121  0.450148  0.576760  1
+  O  O23  1  0.673552  0.297892  0.475355  1
+  O  O24  1  0.864419  0.219077  0.612262  1
+  O  O25  1  0.993739  0.702108  0.524645  1
+  O  O26  1  0.741775  0.646114  0.614265  1
+  O  O27  1  0.364419  0.280923  0.612262  1
+  O  O28  1  0.577867  0.027167  0.473121  1
+  O  O29  1  0.241775  0.853886  0.614265  1
+  O  O30  1  0.546121  0.049852  0.576760  1
+  O  O31  1  0.802871  0.780923  0.387738  1
+  O  O32  1  0.173552  0.202108  0.475355  1

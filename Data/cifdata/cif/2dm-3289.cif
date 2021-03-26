@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Mg(InSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11704164
+_cell_length_b   8.21047292
+_cell_length_c   30.27516400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.03421897
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(InSe2)2
+_chemical_formula_sum   'Mg4 In8 Se16'
+_cell_volume   1769.10702475
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg1  1  0.248346  0.625922  0.499507  1
+  Mg  Mg2  1  0.082194  0.877765  0.367568  1
+  Mg  Mg3  1  0.751654  0.374078  0.500493  1
+  Mg  Mg4  1  0.917806  0.122234  0.632432  1
+  In  In5  1  0.239162  0.123925  0.500033  1
+  In  In6  1  0.088784  0.377201  0.368262  1
+  In  In7  1  0.580731  0.631282  0.368887  1
+  In  In8  1  0.760838  0.876075  0.499967  1
+  In  In9  1  0.911216  0.622799  0.631738  1
+  In  In10  1  0.579369  0.123524  0.367292  1
+  In  In11  1  0.420631  0.876476  0.632708  1
+  In  In12  1  0.419269  0.368718  0.631113  1
+  Se  Se13  1  0.249778  0.621942  0.669460  1
+  Se  Se14  1  0.088223  0.870622  0.452014  1
+  Se  Se15  1  0.246930  0.123307  0.669410  1
+  Se  Se16  1  0.080264  0.380640  0.453610  1
+  Se  Se17  1  0.911777  0.129378  0.547986  1
+  Se  Se18  1  0.751542  0.369731  0.669089  1
+  Se  Se19  1  0.750222  0.378058  0.330540  1
+  Se  Se20  1  0.582447  0.622440  0.454408  1
+  Se  Se21  1  0.919736  0.619360  0.546390  1
+  Se  Se22  1  0.753518  0.875533  0.669611  1
+  Se  Se23  1  0.753070  0.876693  0.330590  1
+  Se  Se24  1  0.582991  0.129878  0.453315  1
+  Se  Se25  1  0.417009  0.870122  0.546685  1
+  Se  Se26  1  0.246482  0.124467  0.330389  1
+  Se  Se27  1  0.417553  0.377560  0.545592  1
+  Se  Se28  1  0.248458  0.630269  0.330911  1

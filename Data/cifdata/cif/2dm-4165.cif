@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Li2Cr3(CO3)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72777598
+_cell_length_b   12.51889544
+_cell_length_c   23.60105210
+_cell_angle_alpha   90.28428508
+_cell_angle_beta   90.00769784
+_cell_angle_gamma   79.16795564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Cr3(CO3)6
+_chemical_formula_sum   'Li2 Cr3 C6 O18'
+_cell_volume   1371.95819830
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li1  1  0.001730  0.000443  0.577078  1
+  Li  Li2  1  0.780978  0.446394  0.422922  1
+  Cr  Cr3  1  0.560458  0.886946  0.500096  1
+  Cr  Cr4  1  0.891354  0.223419  0.500000  1
+  Cr  Cr5  1  0.222250  0.559892  0.499904  1
+  C  C6  1  0.447206  0.112591  0.548780  1
+  C  C7  1  0.782234  0.446483  0.548494  1
+  C  C8  1  0.335502  0.334246  0.451220  1
+  C  C9  1  0.112043  0.778532  0.547993  1
+  C  C10  1  0.670665  0.668305  0.452007  1
+  C  C11  1  0.000474  0.000355  0.451506  1
+  O  O12  1  0.506463  0.460433  0.547643  1
+  O  O13  1  0.276245  0.986405  0.452357  1
+  O  O14  1  0.222858  0.249873  0.452741  1
+  O  O15  1  0.174753  0.431389  0.448063  1
+  O  O16  1  0.607955  0.015449  0.551937  1
+  O  O17  1  0.935310  0.349893  0.549131  1
+  O  O18  1  0.559850  0.196964  0.547259  1
+  O  O19  1  0.908051  0.529385  0.549348  1
+  O  O20  1  0.836078  0.789322  0.549208  1
+  O  O21  1  0.614138  0.326666  0.450124  1
+  O  O22  1  0.555733  0.580543  0.449646  1
+  O  O23  1  0.874657  0.917453  0.450652  1
+  O  O24  1  0.506209  0.761521  0.453317  1
+  O  O25  1  0.847398  0.096944  0.450869  1
+  O  O26  1  0.276499  0.685317  0.546683  1
+  O  O27  1  0.226975  0.866295  0.550354  1
+  O  O28  1  0.168570  0.120172  0.549876  1
+  O  O29  1  0.946630  0.657516  0.450792  1

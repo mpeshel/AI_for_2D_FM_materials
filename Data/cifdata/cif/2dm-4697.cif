@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_In2GaBiS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79585920
+_cell_length_b   12.45744891
+_cell_length_c   31.99230300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2GaBiS6
+_chemical_formula_sum   'In4 Ga2 Bi2 S12'
+_cell_volume   1512.81113981
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In1  1  0.250000  0.630925  0.426555  1
+  In  In2  1  0.750000  0.369075  0.573445  1
+  In  In3  1  0.750000  0.893837  0.520535  1
+  In  In4  1  0.250000  0.106163  0.479465  1
+  Ga  Ga5  1  0.250000  0.665790  0.554800  1
+  Ga  Ga6  1  0.750000  0.334210  0.445200  1
+  Bi  Bi7  1  0.750000  0.634949  0.320876  1
+  Bi  Bi8  1  0.250000  0.365051  0.679124  1
+  S  S9  1  0.750000  0.244307  0.509358  1
+  S  S10  1  0.250000  0.003758  0.551591  1
+  S  S11  1  0.750000  0.746731  0.386982  1
+  S  S12  1  0.250000  0.263437  0.413788  1
+  S  S13  1  0.750000  0.736563  0.586212  1
+  S  S14  1  0.250000  0.755693  0.490642  1
+  S  S15  1  0.250000  0.253269  0.613018  1
+  S  S16  1  0.750000  0.516024  0.455116  1
+  S  S17  1  0.250000  0.483976  0.544884  1
+  S  S18  1  0.750000  0.996242  0.448409  1
+  S  S19  1  0.250000  0.505694  0.344560  1
+  S  S20  1  0.750000  0.494306  0.655440  1

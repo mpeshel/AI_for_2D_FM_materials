@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Zn(SbO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.32682703
+_cell_length_b   7.57956996
+_cell_length_c   25.98806800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(SbO2)2
+_chemical_formula_sum   'Zn2 Sb4 O8'
+_cell_volume   655.31299735
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn1  1  -0.000000  0.250000  0.490127  1
+  Zn  Zn2  1  -0.000000  0.750000  0.509873  1
+  Sb  Sb3  1  0.500000  0.006620  0.589755  1
+  Sb  Sb4  1  0.500000  0.993380  0.410245  1
+  Sb  Sb5  1  0.500000  0.493380  0.589755  1
+  Sb  Sb6  1  0.500000  0.506620  0.410245  1
+  O  O7  1  -0.000000  0.545641  0.631196  1
+  O  O8  1  -0.000000  0.454359  0.368804  1
+  O  O9  1  -0.000000  0.045641  0.368804  1
+  O  O10  1  -0.000000  0.954359  0.631196  1
+  O  O11  1  0.500000  0.750000  0.559226  1
+  O  O12  1  0.500000  0.250000  0.440774  1
+  O  O13  1  -0.000000  0.000000  0.500000  1
+  O  O14  1  -0.000000  0.500000  0.500000  1

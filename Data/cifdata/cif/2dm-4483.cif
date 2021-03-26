@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ca2Bi10O17
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.76164668
+_cell_length_b   7.79413837
+_cell_length_c   27.26908600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   63.25400972
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Bi10O17
+_chemical_formula_sum   'Ca2 Bi10 O17'
+_cell_volume   1473.15721976
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca1  1  0.180335  0.149188  0.492361  1
+  Ca  Ca2  1  0.686788  0.644240  0.492242  1
+  Bi  Bi3  1  0.888536  0.803397  0.611368  1
+  Bi  Bi4  1  0.680442  0.142794  0.508066  1
+  Bi  Bi5  1  0.339647  0.346040  0.611234  1
+  Bi  Bi6  1  0.015637  0.482493  0.380281  1
+  Bi  Bi7  1  0.513004  0.978328  0.380446  1
+  Bi  Bi8  1  0.838637  0.299070  0.617886  1
+  Bi  Bi9  1  0.362016  0.811982  0.608401  1
+  Bi  Bi10  1  0.017182  0.978429  0.382291  1
+  Bi  Bi11  1  0.184714  0.645097  0.500211  1
+  Bi  Bi12  1  0.521066  0.472526  0.382351  1
+  O  O13  1  0.192701  0.647215  0.380656  1
+  O  O14  1  0.859754  0.796776  0.531532  1
+  O  O15  1  0.689657  0.141099  0.375712  1
+  O  O16  1  0.333760  0.319652  0.531190  1
+  O  O17  1  0.010686  0.477237  0.456314  1
+  O  O18  1  0.996743  0.472113  0.619701  1
+  O  O19  1  0.509545  0.975030  0.455793  1
+  O  O20  1  0.846608  0.308416  0.537586  1
+  O  O21  1  0.179905  0.157565  0.382693  1
+  O  O22  1  0.685518  0.648962  0.382290  1
+  O  O23  1  0.365761  0.821595  0.529892  1
+  O  O24  1  0.059479  0.976107  0.628419  1
+  O  O25  1  0.014841  0.982647  0.458296  1
+  O  O26  1  0.653067  0.117308  0.588989  1
+  O  O27  1  0.512956  0.509283  0.631114  1
+  O  O28  1  0.526619  0.470622  0.458358  1
+  O  O29  1  0.194168  0.650696  0.584328  1

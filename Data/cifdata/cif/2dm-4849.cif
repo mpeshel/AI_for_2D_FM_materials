@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Bi2SeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50059344
+_cell_length_b   8.68253042
+_cell_length_c   29.76391500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   108.46722062
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi2SeO5
+_chemical_formula_sum   'Bi8 Se4 O20'
+_cell_volume   1348.29695994
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi1  1  0.256583  0.500000  0.455866  1
+  Bi  Bi2  1  0.756583  0.500000  0.544134  1
+  Bi  Bi3  1  0.730983  0.500000  0.354950  1
+  Bi  Bi4  1  0.230983  0.500000  0.645050  1
+  Bi  Bi5  1  0.074872  0.169437  0.543399  1
+  Bi  Bi6  1  0.905435  0.830563  0.456601  1
+  Bi  Bi7  1  0.574872  0.169437  0.456601  1
+  Bi  Bi8  1  0.405435  0.830563  0.543399  1
+  Se  Se9  1  0.570947  0.171870  0.638330  1
+  Se  Se10  1  0.399077  0.828130  0.361670  1
+  Se  Se11  1  0.070947  0.171870  0.361670  1
+  Se  Se12  1  0.899077  0.828130  0.638330  1
+  O  O13  1  0.437435  0.310694  0.614432  1
+  O  O14  1  0.126741  0.689306  0.385568  1
+  O  O15  1  0.937435  0.310694  0.385568  1
+  O  O16  1  0.626741  0.689306  0.614432  1
+  O  O17  1  0.890610  0.328074  0.502648  1
+  O  O18  1  0.562536  0.671926  0.497352  1
+  O  O19  1  0.390610  0.328074  0.497352  1
+  O  O20  1  0.062536  0.671926  0.502648  1
+  O  O21  1  0.637362  0.500000  0.422114  1
+  O  O22  1  0.137362  0.500000  0.577886  1
+  O  O23  1  0.853867  0.292445  0.661713  1
+  O  O24  1  0.561422  0.707555  0.338287  1
+  O  O25  1  0.064377  0.900292  0.589575  1
+  O  O26  1  0.164085  0.099708  0.410425  1
+  O  O27  1  0.564377  0.900292  0.410425  1
+  O  O28  1  0.664085  0.099708  0.589575  1
+  O  O29  1  0.266190  1.000000  0.500000  1
+  O  O30  1  0.766190  1.000000  0.500000  1
+  O  O31  1  0.061422  0.707555  0.661713  1
+  O  O32  1  0.353867  0.292445  0.338287  1

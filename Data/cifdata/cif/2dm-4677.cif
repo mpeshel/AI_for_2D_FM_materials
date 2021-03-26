@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaCdPO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50681469
+_cell_length_b   6.50638312
+_cell_length_c   24.72767100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCdPO4
+_chemical_formula_sum   'Na2 Cd2 P2 O8'
+_cell_volume   885.97875636
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na1  1  0.999973  0.499585  0.500002  1
+  Na  Na2  1  0.000027  0.999585  0.499998  1
+  Cd  Cd3  1  0.557893  0.749579  0.432309  1
+  Cd  Cd4  1  0.442107  0.249579  0.567691  1
+  P  P5  1  0.428883  0.749612  0.548484  1
+  P  P6  1  0.571117  0.249612  0.451516  1
+  O  O7  1  0.353141  0.558334  0.582516  1
+  O  O8  1  0.646859  0.058334  0.417484  1
+  O  O9  1  0.269665  0.749582  0.495191  1
+  O  O10  1  0.730335  0.249582  0.504809  1
+  O  O11  1  0.646882  0.440811  0.417484  1
+  O  O12  1  0.353118  0.940811  0.582516  1
+  O  O13  1  0.303470  0.249596  0.470408  1
+  O  O14  1  0.696530  0.749596  0.529592  1

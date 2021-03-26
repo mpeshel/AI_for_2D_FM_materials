@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_AlH4(SeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36523237
+_cell_length_b   9.49196742
+_cell_length_c   25.95364007
+_cell_angle_alpha   89.18006826
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlH4(SeO4)2
+_chemical_formula_sum   'Al2 H8 Se4 O16'
+_cell_volume   1321.59559098
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al1  1  -0.000000  -0.000000  0.500000  1
+  Al  Al2  1  0.500000  0.500000  0.500000  1
+  H  H3  1  0.171162  0.454061  0.572910  1
+  H  H4  1  0.328838  0.954061  0.572910  1
+  H  H5  1  0.828838  0.545939  0.427090  1
+  H  H6  1  0.671162  0.045939  0.427090  1
+  H  H7  1  0.829233  0.898945  0.415805  1
+  H  H8  1  0.670767  0.398945  0.415805  1
+  H  H9  1  0.170767  0.101055  0.584195  1
+  H  H10  1  0.329233  0.601055  0.584195  1
+  Se  Se11  1  0.241639  0.744705  0.437436  1
+  Se  Se12  1  0.258361  0.244705  0.437436  1
+  Se  Se13  1  0.758361  0.255295  0.562564  1
+  Se  Se14  1  0.741639  0.755295  0.562564  1
+  O  O15  1  0.009027  0.251838  0.601891  1
+  O  O16  1  0.490973  0.751838  0.601891  1
+  O  O17  1  0.990973  0.748162  0.398109  1
+  O  O18  1  0.509027  0.248162  0.398109  1
+  O  O19  1  0.273700  0.530364  0.558228  1
+  O  O20  1  0.226300  0.030364  0.558228  1
+  O  O21  1  0.726300  0.469636  0.441772  1
+  O  O22  1  0.773700  0.969636  0.441772  1
+  O  O23  1  0.364861  0.319364  0.494285  1
+  O  O24  1  0.135139  0.819364  0.494285  1
+  O  O25  1  0.635139  0.680636  0.505715  1
+  O  O26  1  0.864861  0.180636  0.505715  1
+  O  O27  1  0.244510  0.068726  0.453552  1
+  O  O28  1  0.255490  0.568726  0.453552  1
+  O  O29  1  0.755490  0.931274  0.546448  1
+  O  O30  1  0.744510  0.431274  0.546448  1

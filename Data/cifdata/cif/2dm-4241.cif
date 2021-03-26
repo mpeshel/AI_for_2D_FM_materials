@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Pr(ReO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27801667
+_cell_length_b   6.27748159
+_cell_length_c   27.14183925
+_cell_angle_alpha   90.00368781
+_cell_angle_beta   89.94958173
+_cell_angle_gamma   120.00322787
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr(ReO4)2
+_chemical_formula_sum   'Pr1 Re2 O8'
+_cell_volume   926.32520722
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr1  1  0.000000  0.000000  0.500000  1
+  Re  Re2  1  0.333473  0.666702  0.428203  1
+  Re  Re3  1  0.666527  0.333298  0.571797  1
+  O  O4  1  0.142989  0.781739  0.451444  1
+  O  O5  1  0.638762  0.857068  0.451444  1
+  O  O6  1  0.333377  0.666713  0.364499  1
+  O  O7  1  0.781654  0.638699  0.548566  1
+  O  O8  1  0.218346  0.361301  0.451434  1
+  O  O9  1  0.666623  0.333287  0.635501  1
+  O  O10  1  0.361238  0.142932  0.548556  1
+  O  O11  1  0.857011  0.218261  0.548556  1

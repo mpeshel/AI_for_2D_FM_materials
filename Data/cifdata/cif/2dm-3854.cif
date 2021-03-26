@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SrThBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38740086
+_cell_length_b   9.25792959
+_cell_length_c   30.82643800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrThBr6
+_chemical_formula_sum   'Sr2 Th2 Br12'
+_cell_volume   1252.11591119
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr1  1  0.500000  0.750000  0.409491  1
+  Sr  Sr2  1  0.500000  0.250000  0.590509  1
+  Th  Th3  1  0.000000  0.750000  0.590320  1
+  Th  Th4  1  0.000000  0.250000  0.409680  1
+  Br  Br5  1  0.500000  0.567014  0.552241  1
+  Br  Br6  1  0.500000  0.432986  0.447759  1
+  Br  Br7  1  0.500000  0.067014  0.447759  1
+  Br  Br8  1  0.500000  0.932986  0.552241  1
+  Br  Br9  1  0.500000  0.750000  0.656124  1
+  Br  Br10  1  0.500000  0.250000  0.343876  1
+  Br  Br11  1  -0.000000  0.750000  0.481261  1
+  Br  Br12  1  -0.000000  0.250000  0.518739  1
+  Br  Br13  1  -0.000000  0.549122  0.365550  1
+  Br  Br14  1  -0.000000  0.450878  0.634450  1
+  Br  Br15  1  0.000000  0.049122  0.634450  1
+  Br  Br16  1  0.000000  0.950878  0.365550  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ta4Co2PdSe12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.42984461
+_cell_length_b   18.30906137
+_cell_length_c   25.29104400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   95.37450011
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4Co2PdSe12
+_chemical_formula_sum   'Ta4 Co2 Pd1 Se12'
+_cell_volume   1581.22548631
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta1  1  0.075728  0.151456  0.473055  1
+  Ta  Ta2  1  0.924272  0.848544  0.526945  1
+  Ta  Ta3  1  0.203680  0.407360  0.476245  1
+  Ta  Ta4  1  0.796320  0.592640  0.523755  1
+  Co  Co5  1  0.642639  0.285279  0.451588  1
+  Co  Co6  1  0.357361  0.714721  0.548412  1
+  Pd  Pd7  1  0.500000  -0.000000  0.500000  1
+  Se  Se8  1  0.559303  0.118606  0.547513  1
+  Se  Se9  1  0.440697  0.881394  0.452487  1
+  Se  Se10  1  0.301548  0.603097  0.598436  1
+  Se  Se11  1  0.698452  0.396903  0.401564  1
+  Se  Se12  1  0.724326  0.448652  0.549256  1
+  Se  Se13  1  0.275674  0.551348  0.450744  1
+  Se  Se14  1  0.119021  0.238041  0.395101  1
+  Se  Se15  1  0.880979  0.761959  0.604899  1
+  Se  Se16  1  0.537508  0.075015  0.417970  1
+  Se  Se17  1  0.462492  0.924985  0.582030  1
+  Se  Se18  1  0.140416  0.280832  0.519506  1
+  Se  Se19  1  0.859584  0.719168  0.480494  1

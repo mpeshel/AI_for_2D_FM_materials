@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NbTe5Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78205582
+_cell_length_b   15.64991854
+_cell_length_c   24.46329000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbTe5Pd
+_chemical_formula_sum   'Nb2 Te10 Pd2'
+_cell_volume   1447.95438142
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb1  1  0.500000  0.842174  0.497295  1
+  Nb  Nb2  1  0.500000  0.342174  0.502705  1
+  Te  Te3  1  0.000000  0.939022  0.561373  1
+  Te  Te4  1  0.000000  0.439022  0.438627  1
+  Te  Te5  1  0.500000  0.012323  0.445409  1
+  Te  Te6  1  0.500000  0.512323  0.554591  1
+  Te  Te7  1  -0.000000  0.348050  0.591421  1
+  Te  Te8  1  -0.000000  0.848050  0.408579  1
+  Te  Te9  1  -0.000000  0.737959  0.556009  1
+  Te  Te10  1  0.000000  0.237959  0.443991  1
+  Te  Te11  1  0.500000  0.677626  0.436578  1
+  Te  Te12  1  0.500000  0.177626  0.563422  1
+  Pd  Pd13  1  0.000000  0.592516  0.494209  1
+  Pd  Pd14  1  -0.000000  0.092516  0.505791  1

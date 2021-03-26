@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SnGeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87040976
+_cell_length_b   10.47826480
+_cell_length_c   27.34396900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnGeS3
+_chemical_formula_sum   'Sn4 Ge4 S12'
+_cell_volume   1968.49158318
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn1  1  0.744208  0.429034  0.533383  1
+  Sn  Sn2  1  0.755792  0.929034  0.466617  1
+  Sn  Sn3  1  0.255792  0.570966  0.466617  1
+  Sn  Sn4  1  0.244208  0.070966  0.533383  1
+  Ge  Ge5  1  0.396760  0.718947  0.583455  1
+  Ge  Ge6  1  0.896760  0.781053  0.583455  1
+  Ge  Ge7  1  0.603240  0.281053  0.416545  1
+  Ge  Ge8  1  0.103240  0.218947  0.416545  1
+  S  S9  1  0.609582  0.165831  0.484997  1
+  S  S10  1  0.152410  0.769898  0.634915  1
+  S  S11  1  0.347590  0.269898  0.365085  1
+  S  S12  1  0.847590  0.230102  0.365085  1
+  S  S13  1  0.359292  0.517430  0.557040  1
+  S  S14  1  0.140708  0.017430  0.442960  1
+  S  S15  1  0.640708  0.482570  0.442960  1
+  S  S16  1  0.859292  0.982570  0.557040  1
+  S  S17  1  0.390418  0.834168  0.515003  1
+  S  S18  1  0.109582  0.334168  0.484997  1
+  S  S19  1  0.890418  0.665832  0.515003  1
+  S  S20  1  0.652410  0.730102  0.634915  1

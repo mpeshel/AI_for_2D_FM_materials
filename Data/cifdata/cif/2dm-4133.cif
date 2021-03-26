@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiAg(CO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31968617
+_cell_length_b   10.78891572
+_cell_length_c   20.49481849
+_cell_angle_alpha   89.34614930
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAg(CO2)2
+_chemical_formula_sum   'Li2 Ag2 C4 O8'
+_cell_volume   1176.19576004
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li1  1  0.439417  0.590673  0.510858  1
+  Li  Li2  1  0.939417  0.409327  0.489142  1
+  Ag  Ag3  1  0.452641  0.946909  0.482221  1
+  Ag  Ag4  1  0.952641  0.053091  0.517779  1
+  C  C5  1  0.452800  0.357919  0.455371  1
+  C  C6  1  0.952800  0.642081  0.544629  1
+  C  C7  1  0.580991  0.229417  0.468549  1
+  C  C8  1  0.080991  0.770583  0.531451  1
+  O  O9  1  0.725338  0.643984  0.558445  1
+  O  O10  1  0.225338  0.356016  0.441555  1
+  O  O11  1  0.965396  0.865702  0.550174  1
+  O  O12  1  0.465396  0.134298  0.449826  1
+  O  O13  1  0.093762  0.548153  0.536658  1
+  O  O14  1  0.593762  0.451847  0.463342  1
+  O  O15  1  0.289625  0.767931  0.500600  1
+  O  O16  1  0.789625  0.232069  0.499400  1

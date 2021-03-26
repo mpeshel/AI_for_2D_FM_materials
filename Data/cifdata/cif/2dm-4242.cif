@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ta2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.13494965
+_cell_length_b   6.00051494
+_cell_length_c   23.85620533
+_cell_angle_alpha   89.85616137
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2O5
+_chemical_formula_sum   'Ta2 O5'
+_cell_volume   448.76511271
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta1  1  0.000000  0.927106  0.484212  1
+  Ta  Ta2  1  0.500000  0.463968  0.527503  1
+  O  O3  1  0.500000  0.167634  0.491623  1
+  O  O4  1  -0.000000  0.568656  0.476832  1
+  O  O5  1  -0.000000  0.404383  0.575017  1
+  O  O6  1  0.500000  0.801424  0.532934  1
+  O  O7  1  -0.000000  0.927679  0.411880  1

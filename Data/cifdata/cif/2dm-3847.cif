@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrTe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05300774
+_cell_length_b   13.86944153
+_cell_length_c   25.42203323
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTe5
+_chemical_formula_sum   'Zr2 Te10'
+_cell_volume   1429.04758125
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr1  1  -0.000000  0.500000  0.460477  1
+  Zr  Zr2  1  0.500000  0.000000  0.539523  1
+  Te  Te3  1  0.500000  0.500000  0.548635  1
+  Te  Te4  1  0.000000  0.000000  0.451365  1
+  Te  Te5  1  0.500000  0.600432  0.393983  1
+  Te  Te6  1  0.000000  0.899568  0.606017  1
+  Te  Te7  1  -0.000000  0.100432  0.606017  1
+  Te  Te8  1  0.500000  0.399568  0.393983  1
+  Te  Te9  1  -0.000000  0.315535  0.522703  1
+  Te  Te10  1  0.500000  0.184465  0.477297  1
+  Te  Te11  1  0.500000  0.815535  0.477297  1
+  Te  Te12  1  0.000000  0.684465  0.522703  1

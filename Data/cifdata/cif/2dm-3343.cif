@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TiSCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.43148435
+_cell_length_b   4.82159671
+_cell_length_c   25.08346700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.02552294
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiSCl
+_chemical_formula_sum   'Ti2 S2 Cl2'
+_cell_volume   415.01178113
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti1  1  0.750246  0.749986  0.468389  1
+  Ti  Ti2  1  0.249754  0.250014  0.531611  1
+  S  S3  1  0.250268  0.750006  0.537819  1
+  S  S4  1  0.749732  0.249994  0.462181  1
+  Cl  Cl5  1  0.250082  0.750001  0.398374  1
+  Cl  Cl6  1  0.749918  0.249999  0.601626  1

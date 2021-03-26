@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BSbO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96860420
+_cell_length_b   4.96791362
+_cell_length_c   23.89957400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   102.04379113
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BSbO3
+_chemical_formula_sum   'B2 Sb2 O6'
+_cell_volume   576.94219891
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B1  1  0.127048  0.720764  0.445459  1
+  B  B2  1  0.500595  0.094488  0.554551  1
+  Sb  Sb3  1  0.148469  0.498794  0.564948  1
+  Sb  Sb4  1  0.722563  0.072953  0.435072  1
+  O  O5  1  0.304757  0.895818  0.580303  1
+  O  O6  1  0.325766  0.916433  0.419659  1
+  O  O7  1  0.193732  0.527284  0.481521  1
+  O  O8  1  0.694135  0.027675  0.518488  1
+  O  O9  1  0.504729  0.368493  0.565537  1
+  O  O10  1  0.853094  0.716855  0.434464  1

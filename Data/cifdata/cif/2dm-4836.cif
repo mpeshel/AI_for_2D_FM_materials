@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Zn2Te3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13219965
+_cell_length_b   7.03229684
+_cell_length_c   24.99078700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   68.59844708
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2Te3O8
+_chemical_formula_sum   'Zn2 Te3 O8'
+_cell_volume   839.75340665
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn1  1  0.315952  0.401670  0.458165  1
+  Zn  Zn2  1  0.717622  0.598330  0.541835  1
+  Te  Te3  1  0.878052  0.000000  0.500000  1
+  Te  Te4  1  0.385583  0.356322  0.592974  1
+  Te  Te5  1  0.741904  0.643678  0.407026  1
+  O  O6  1  0.045663  0.398109  0.399421  1
+  O  O7  1  0.443773  0.601891  0.600579  1
+  O  O8  1  0.566042  0.572989  0.467136  1
+  O  O9  1  0.139032  0.427011  0.532864  1
+  O  O10  1  0.580466  0.121997  0.452307  1
+  O  O11  1  0.702462  0.878003  0.547693  1
+  O  O12  1  0.726148  0.257723  0.553061  1
+  O  O13  1  0.983871  0.742277  0.446939  1
