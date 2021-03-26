@@ -32,11 +32,13 @@ This package requires:
 - [PyTorch](http://pytorch.org)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [pymatgen](http://pymatgen.org)
-- [keras]
-- [matminer]
+- [keras](https://keras.io)
+- [matminer](https://matminer.readthedocs.io/en/latest/)
 
 
 If you are new to Python, the easiest way of installing the prerequisites is via [conda](https://conda.io/docs/index.html). Other minor requirements are mentioned in the requirements.txt document
+
+## Files
 
 
 ## Usage
@@ -47,5 +49,6 @@ If you are new to Python, the easiest way of installing the prerequisites is via
 
 ## Authors
 
-This software was primarily written by Sheth Riya Nimish who was advised by Prof. Shen Lei. 
+The code was primarily written by Sheth Riya Nimish who was advised by Prof. Shen Lei. 
+Appropriate citations can be found in the code itself for borrowed code.
 
