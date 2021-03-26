@@ -77,8 +77,18 @@ If you are new to Python, the easiest way of installing the prerequisites is via
 
 ## Usage
 
+# Data Featurizing
+The code that was used for data featurizing is used in jupyter notebook python. The jupyter notebook was preferred to a general python script because it could be executed in a chunk wise manner and user friendly manner.
+To use the same code as used in this report, it should be ensured that data is either in the format of a .csv or a .json and it is in the same folder as the jupyter notebook. Enter the file name and type of the file in the notebook, and enter a few other input parameters while running the jupyter notebook such as whether imputation needs to be performed or not and if the number of data needs to be reduced and if yes, by how much.
+After the jupyter notebook is executed, a document DFDP-Results.docx will be saved in the same folder which will give an in-depth analysis of everything that took place during the processes of data featurizing and data-preprocessing. Furthermore, there will be another document DataAfterDFDP.csv which will store the prepared data that can then be used for machine learning and deep learning algorithms.
 
+# Classical Machine Learning
 
+# Deep Learning
+
+# CGCNN
+
+# MEGNET
 
 
 ## Authors
