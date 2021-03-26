@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CeMg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.14575862
+_cell_length_b   5.86248914
+_cell_length_c   26.04883700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   74.43713716
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMg2
+_chemical_formula_sum   'Ce2 Mg4'
+_cell_volume   462.77924853
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce1  1  0.359236  0.281528  0.489062  1
+  Ce  Ce2  1  0.640764  0.718472  0.510938  1
+  Mg  Mg3  1  0.754009  0.491981  0.384891  1
+  Mg  Mg4  1  0.024636  0.950727  0.401835  1
+  Mg  Mg5  1  0.975364  0.049273  0.598165  1
+  Mg  Mg6  1  0.245991  0.508019  0.615109  1

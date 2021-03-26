@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr2Cu2NiO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09926741
+_cell_length_b   5.13215629
+_cell_length_c   29.48456200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.81114982
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Cu2NiO7
+_chemical_formula_sum   'Sr4 Cu4 Ni2 O14'
+_cell_volume   771.61379320
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr1  1  0.525295  0.497902  0.416184  1
+  Sr  Sr2  1  0.025092  0.002446  0.583799  1
+  Sr  Sr3  1  0.024765  0.002208  0.416196  1
+  Sr  Sr4  1  0.525633  0.498042  0.583817  1
+  Cu  Cu5  1  0.023402  0.500855  0.339076  1
+  Cu  Cu6  1  0.523620  0.000109  0.660674  1
+  Cu  Cu7  1  0.523266  0.999823  0.339332  1
+  Cu  Cu8  1  0.023698  0.501000  0.660921  1
+  Ni  Ni9  1  0.471179  0.931629  0.499952  1
+  Ni  Ni10  1  0.967187  0.567991  0.499968  1
+  O  O11  1  0.602988  0.581814  0.500004  1
+  O  O12  1  0.099282  0.903147  0.499999  1
+  O  O13  1  0.772877  0.251048  0.352533  1
+  O  O14  1  0.272573  0.250339  0.647384  1
+  O  O15  1  0.272035  0.250046  0.352647  1
+  O  O16  1  0.773377  0.251304  0.647454  1
+  O  O17  1  0.273193  0.749794  0.353237  1
+  O  O18  1  0.774128  0.750607  0.646787  1
+  O  O19  1  0.773670  0.750440  0.353223  1
+  O  O20  1  0.273603  0.750102  0.646743  1
+  O  O21  1  0.536081  0.017273  0.441265  1
+  O  O22  1  0.031336  0.489998  0.557762  1
+  O  O23  1  0.031106  0.489850  0.442281  1
+  O  O24  1  0.536366  0.017552  0.558764  1

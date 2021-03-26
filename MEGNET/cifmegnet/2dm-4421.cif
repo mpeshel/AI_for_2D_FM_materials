@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Mn2CoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.89547372
+_cell_length_b   7.62578770
+_cell_length_c   21.93320136
+_cell_angle_alpha   90.01895599
+_cell_angle_beta   90.00588218
+_cell_angle_gamma   100.94610506
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2CoO6
+_chemical_formula_sum   'Mn2 Co1 O6'
+_cell_volume   475.47985093
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn1  1  -0.000063  0.997922  0.499855  1
+  Mn  Mn2  1  0.668723  0.335891  0.500058  1
+  Co  Co3  1  0.333860  0.666931  0.500095  1
+  O  O4  1  0.443161  0.884674  0.456477  1
+  O  O5  1  0.780260  0.560013  0.457139  1
+  O  O6  1  0.112541  0.223241  0.456176  1
+  O  O7  1  0.887443  0.774054  0.542990  1
+  O  O8  1  0.225088  0.448860  0.543532  1
+  O  O9  1  0.556424  0.110620  0.543679  1

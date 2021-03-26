@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_MgH4(NO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88520608
+_cell_length_b   8.35208469
+_cell_length_c   25.03870600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgH4(NO4)2
+_chemical_formula_sum   'Mg2 H8 N4 O16'
+_cell_volume   1230.74603460
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg1  1  0.500000  -0.000000  0.500000  1
+  Mg  Mg2  1  0.000000  0.500000  0.500000  1
+  H  H3  1  0.295256  0.952443  0.408572  1
+  H  H4  1  0.840428  0.120180  0.542799  1
+  H  H5  1  0.340428  0.379820  0.457201  1
+  H  H6  1  0.795256  0.547557  0.591428  1
+  H  H7  1  0.204744  0.452443  0.408572  1
+  H  H8  1  0.659572  0.620180  0.542799  1
+  H  H9  1  0.159572  0.879820  0.457201  1
+  H  H10  1  0.704744  0.047557  0.591428  1
+  N  N11  1  0.847020  0.201898  0.440535  1
+  N  N12  1  0.347020  0.298102  0.559465  1
+  N  N13  1  0.652980  0.701898  0.440535  1
+  N  N14  1  0.152980  0.798102  0.559465  1
+  O  O15  1  0.761826  0.022698  0.555689  1
+  O  O16  1  0.712439  0.082343  0.439497  1
+  O  O17  1  0.390969  0.235419  0.513136  1
+  O  O18  1  0.432062  0.244365  0.600589  1
+  O  O19  1  0.932062  0.255635  0.399411  1
+  O  O20  1  0.890969  0.264581  0.486864  1
+  O  O21  1  0.212439  0.417657  0.560503  1
+  O  O22  1  0.261826  0.477302  0.444311  1
+  O  O23  1  0.738174  0.522698  0.555689  1
+  O  O24  1  0.787561  0.582343  0.439497  1
+  O  O25  1  0.109031  0.735419  0.513136  1
+  O  O26  1  0.067938  0.744365  0.600589  1
+  O  O27  1  0.567938  0.755635  0.399411  1
+  O  O28  1  0.609031  0.764581  0.486864  1
+  O  O29  1  0.287561  0.917657  0.560503  1
+  O  O30  1  0.238174  0.977302  0.444311  1

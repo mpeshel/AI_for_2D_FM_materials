@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZnCr2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79286329
+_cell_length_b   11.47708266
+_cell_length_c   24.14843800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCr2O5
+_chemical_formula_sum   'Zn2 Cr4 O10'
+_cell_volume   1051.20578733
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn1  1  0.250000  0.249944  0.456445  1
+  Zn  Zn2  1  0.750000  0.750009  0.543555  1
+  Cr  Cr3  1  0.750000  0.405754  0.513828  1
+  Cr  Cr4  1  0.250000  0.594199  0.486172  1
+  Cr  Cr5  1  0.250000  0.905794  0.486164  1
+  Cr  Cr6  1  0.750000  0.094159  0.513836  1
+  O  O7  1  0.250000  0.750010  0.528046  1
+  O  O8  1  0.750000  0.249943  0.471954  1
+  O  O9  1  0.250000  0.421595  0.488001  1
+  O  O10  1  0.750000  0.578358  0.511999  1
+  O  O11  1  0.250000  0.078362  0.488047  1
+  O  O12  1  0.750000  0.921591  0.511953  1
+  O  O13  1  0.750000  0.144185  0.578428  1
+  O  O14  1  0.250000  0.855768  0.421572  1
+  O  O15  1  0.250000  0.644334  0.421628  1
+  O  O16  1  0.750000  0.355619  0.578372  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Hf2Al4C5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.31155564
+_cell_length_b   3.31155540
+_cell_length_c   31.76055400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   59.99999758
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2Al4C5
+_chemical_formula_sum   'Hf2 Al4 C5'
+_cell_volume   301.63572096
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf1  1  0.333333  0.333333  0.457986  1
+  Hf  Hf2  1  0.666667  0.666667  0.542014  1
+  Al  Al3  1  -0.000000  0.000000  0.614381  1
+  Al  Al4  1  0.333333  0.333333  0.683864  1
+  Al  Al5  1  0.666667  0.666667  0.316136  1
+  Al  Al6  1  -0.000000  0.000000  0.385619  1
+  C  C7  1  0.333333  0.333333  0.585343  1
+  C  C8  1  0.666667  0.666667  0.414657  1
+  C  C9  1  -0.000000  0.000000  0.500000  1
+  C  C10  1  -0.000000  -0.000000  0.323648  1
+  C  C11  1  -0.000000  0.000000  0.676352  1

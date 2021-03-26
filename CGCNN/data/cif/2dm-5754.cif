@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ta2Te4Br10O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.87331269
+_cell_length_b   10.88579127
+_cell_length_c   25.06923200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   104.06365222
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Te4Br10O
+_chemical_formula_sum   'Ta2 Te4 Br10 O1'
+_cell_volume   2348.93152851
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta1  1  0.370051  0.594013  0.532376  1
+  Ta  Ta2  1  0.629949  0.405987  0.467624  1
+  Te  Te3  1  0.200845  0.980593  0.521960  1
+  Te  Te4  1  0.909563  0.821263  0.516669  1
+  Te  Te5  1  0.799155  0.019407  0.478040  1
+  Te  Te6  1  0.090437  0.178737  0.483331  1
+  Br  Br7  1  0.174286  0.535496  0.459277  1
+  Br  Br8  1  0.825714  0.464504  0.540723  1
+  Br  Br9  1  0.417466  0.312578  0.401869  1
+  Br  Br10  1  0.805458  0.278896  0.417751  1
+  Br  Br11  1  0.515163  0.207624  0.528000  1
+  Br  Br12  1  0.484837  0.792376  0.472000  1
+  Br  Br13  1  0.751594  0.587998  0.409684  1
+  Br  Br14  1  0.582534  0.687422  0.598131  1
+  Br  Br15  1  0.248406  0.412002  0.590316  1
+  Br  Br16  1  0.194542  0.721104  0.582249  1
+  O  O17  1  0.500000  0.500000  0.500000  1

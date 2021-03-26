@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca3Pb3I14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41834684
+_cell_length_b   25.88995444
+_cell_length_c   24.43324757
+_cell_angle_alpha   90.43553339
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3Pb3I14
+_chemical_formula_sum   'Ca3 Pb3 I14'
+_cell_volume   2794.85794753
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca1  1  0.500000  0.602395  0.502750  1
+  Ca  Ca2  1  0.500000  0.926939  0.490399  1
+  Ca  Ca3  1  0.500000  0.249142  0.503931  1
+  Pb  Pb4  1  0.000000  0.772132  0.490028  1
+  Pb  Pb5  1  0.000000  0.079795  0.503670  1
+  Pb  Pb6  1  0.000000  0.424605  0.506967  1
+  I  I7  1  0.500000  0.722020  0.566645  1
+  I  I8  1  0.000000  0.526284  0.438859  1
+  I  I9  1  -0.000000  0.664577  0.427626  1
+  I  I10  1  0.000000  0.877020  0.563569  1
+  I  I11  1  0.500000  0.018743  0.576180  1
+  I  I12  1  0.500000  0.829893  0.412742  1
+  I  I13  1  -0.000000  0.181991  0.574526  1
+  I  I14  1  -0.000000  0.320818  0.572187  1
+  I  I15  1  0.000000  0.980384  0.420223  1
+  I  I16  1  0.500000  0.134025  0.430536  1
+  I  I17  1  0.500000  0.477383  0.580656  1
+  I  I18  1  0.000000  0.599761  0.593266  1
+  I  I19  1  0.000000  0.253635  0.412880  1
+  I  I20  1  0.500000  0.371556  0.432361  1

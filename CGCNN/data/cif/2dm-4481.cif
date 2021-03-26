@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_W3Se2ClO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71385494
+_cell_length_b   11.57864626
+_cell_length_c   26.66602100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00106975
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   W3Se2ClO8
+_chemical_formula_sum   'W6 Se4 Cl2 O16'
+_cell_volume   1764.18942088
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  W  W1  1  0.497664  0.994612  0.500136  1
+  W  W2  1  0.497937  0.494075  0.500164  1
+  W  W3  1  0.994490  0.993896  0.500177  1
+  W  W4  1  0.726065  0.744339  0.427810  1
+  W  W5  1  0.245786  0.244349  0.568997  1
+  W  W6  1  0.994762  0.494837  0.500177  1
+  Se  Se7  1  0.746801  0.027438  0.385876  1
+  Se  Se8  1  0.246484  0.968092  0.615034  1
+  Se  Se9  1  0.747014  0.461254  0.385892  1
+  Se  Se10  1  0.246633  0.520607  0.615049  1
+  Cl  Cl11  1  0.278625  0.744388  0.431432  1
+  Cl  Cl12  1  0.745543  0.244314  0.564682  1
+  O  O13  1  0.245339  0.118319  0.516169  1
+  O  O14  1  0.246220  0.116318  0.623357  1
+  O  O15  1  0.747035  0.605952  0.373776  1
+  O  O16  1  0.508933  0.044759  0.426329  1
+  O  O17  1  0.483142  0.540108  0.575544  1
+  O  O18  1  0.010166  0.540500  0.575601  1
+  O  O19  1  0.745560  0.872870  0.485030  1
+  O  O20  1  0.984321  0.044372  0.426469  1
+  O  O21  1  0.984622  0.444389  0.426469  1
+  O  O22  1  0.009962  0.948228  0.575603  1
+  O  O23  1  0.245506  0.370387  0.516174  1
+  O  O24  1  0.745754  0.615843  0.485039  1
+  O  O25  1  0.482920  0.948554  0.575518  1
+  O  O26  1  0.509212  0.443879  0.426365  1
+  O  O27  1  0.746983  0.882717  0.373768  1
+  O  O28  1  0.246256  0.372369  0.623362  1

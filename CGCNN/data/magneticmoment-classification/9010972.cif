@@ -1,0 +1,71 @@
+#------------------------------------------------------------------------------
+#$Date: 2017-10-14 23:18:49 +0300 (Sat, 14 Oct 2017) $
+#$Revision: 202019 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/9/01/09/9010972.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9010972
+loop_
+_publ_author_name
+'Post, B.'
+'Schwartz, R. S.'
+'Fankuchen, I.'
+_publ_section_title
+;
+ The crystal structure of sulfur dioxide
+ Sample: T = -130 C
+;
+_journal_name_full               'Acta Crystallographica'
+_journal_page_first              372
+_journal_page_last               374
+_journal_paper_doi               10.1107/S0365110X5200109X
+_journal_volume                  5
+_journal_year                    1952
+_chemical_formula_structural     SO2
+_chemical_formula_sum            'O2 S'
+_space_group_IT_number           41
+_symmetry_space_group_name_Hall  'A 2 -2ab'
+_symmetry_space_group_name_H-M   'A b a 2'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_length_a                   6.07
+_cell_length_b                   5.94
+_cell_length_c                   6.14
+_cell_volume                     221.383
+_diffrn_ambient_temperature      143.15
+_exptl_crystal_density_diffrn    1.922
+_cod_original_formula_sum        'S O2'
+_cod_database_code               9010972
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+x,1/2+y,1/2+z
+1/2+x,1/2-y,z
+1/2+x,-y,1/2+z
+1/2-x,1/2+y,z
+1/2-x,+y,1/2+z
+-x,-y,z
+-x,1/2-y,1/2+z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+S 0.00000 0.00000 0.00000 0.03166
+O 0.14000 0.15000 0.11800 0.03166
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 ChemSpider 1087

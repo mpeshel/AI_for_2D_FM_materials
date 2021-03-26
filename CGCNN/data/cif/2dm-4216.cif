@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Si2Ag6O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.99190774
+_cell_length_b   10.11623409
+_cell_length_c   23.78979000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.88270341
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2Ag6O7
+_chemical_formula_sum   'Si4 Ag12 O14'
+_cell_volume   1808.70745919
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si1  1  0.840327  0.636579  0.448207  1
+  Si  Si2  1  0.159673  0.363421  0.551793  1
+  Si  Si3  1  0.340327  0.136579  0.551793  1
+  Si  Si4  1  0.659673  0.863421  0.448207  1
+  Ag  Ag5  1  0.208997  0.901915  0.451634  1
+  Ag  Ag6  1  0.708997  0.401915  0.548366  1
+  Ag  Ag7  1  0.964697  0.893295  0.548580  1
+  Ag  Ag8  1  0.791003  0.098085  0.548366  1
+  Ag  Ag9  1  0.918334  0.367255  0.446585  1
+  Ag  Ag10  1  0.035303  0.106705  0.451420  1
+  Ag  Ag11  1  0.081666  0.632745  0.553415  1
+  Ag  Ag12  1  0.418334  0.867255  0.553415  1
+  Ag  Ag13  1  0.464697  0.393295  0.451420  1
+  Ag  Ag14  1  0.291003  0.598085  0.451634  1
+  Ag  Ag15  1  0.581666  0.132745  0.446585  1
+  Ag  Ag16  1  0.535303  0.606705  0.548580  1
+  O  O17  1  0.764248  0.021875  0.422164  1
+  O  O18  1  0.750000  0.750000  0.425185  1
+  O  O19  1  0.250000  0.250000  0.574815  1
+  O  O20  1  0.550946  0.187135  0.566011  1
+  O  O21  1  0.735752  0.478125  0.422164  1
+  O  O22  1  0.949054  0.312865  0.566011  1
+  O  O23  1  0.814872  0.630077  0.519632  1
+  O  O24  1  0.449054  0.812865  0.433989  1
+  O  O25  1  0.264248  0.521875  0.577836  1
+  O  O26  1  0.314872  0.130077  0.480368  1
+  O  O27  1  0.185128  0.369923  0.480368  1
+  O  O28  1  0.050946  0.687135  0.433989  1
+  O  O29  1  0.685128  0.869923  0.519632  1
+  O  O30  1  0.235752  0.978125  0.577836  1

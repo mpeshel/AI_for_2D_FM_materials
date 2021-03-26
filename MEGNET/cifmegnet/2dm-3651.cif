@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_In4Bi2S9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90370071
+_cell_length_b   20.62094156
+_cell_length_c   30.03316000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In4Bi2S9
+_chemical_formula_sum   'In8 Bi4 S18'
+_cell_volume   2417.60883942
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In1  1  0.750000  0.393592  0.531755  1
+  In  In2  1  0.750000  0.697756  0.554375  1
+  In  In3  1  0.250000  0.283161  0.468245  1
+  In  In4  1  0.250000  0.978998  0.445625  1
+  In  In5  1  0.250000  0.527412  0.585289  1
+  In  In6  1  0.750000  0.104458  0.548755  1
+  In  In7  1  0.250000  0.572296  0.451245  1
+  In  In8  1  0.750000  0.149342  0.414711  1
+  Bi  Bi9  1  0.250000  0.075369  0.661532  1
+  Bi  Bi10  1  0.750000  0.809515  0.436339  1
+  Bi  Bi11  1  0.750000  0.601385  0.338468  1
+  Bi  Bi12  1  0.250000  0.867238  0.563661  1
+  S  S13  1  0.750000  0.356654  0.447309  1
+  S  S14  1  0.750000  0.005692  0.628494  1
+  S  S15  1  0.250000  0.320100  0.552691  1
+  S  S16  1  0.250000  0.646106  0.598482  1
+  S  S17  1  0.250000  0.159390  0.600591  1
+  S  S18  1  0.250000  0.769363  0.509166  1
+  S  S19  1  0.250000  0.482872  0.507396  1
+  S  S20  1  0.250000  0.031382  0.524293  1
+  S  S21  1  0.750000  0.463806  0.611639  1
+  S  S22  1  0.750000  0.030648  0.401518  1
+  S  S23  1  0.750000  0.645372  0.475707  1
+  S  S24  1  0.750000  0.907391  0.490834  1
+  S  S25  1  0.750000  0.802458  0.607177  1
+  S  S26  1  0.250000  0.212948  0.388361  1
+  S  S27  1  0.250000  0.671062  0.371506  1
+  S  S28  1  0.750000  0.193882  0.492604  1
+  S  S29  1  0.750000  0.517363  0.399409  1
+  S  S30  1  0.250000  0.874296  0.392823  1

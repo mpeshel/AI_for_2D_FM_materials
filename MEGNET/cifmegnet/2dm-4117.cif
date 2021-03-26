@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ca(SnO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35308117
+_cell_length_b   11.83318065
+_cell_length_c   25.54174200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(SnO2)2
+_chemical_formula_sum   'Ca4 Sn8 O16'
+_cell_volume   1920.15555270
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca1  1  0.500000  0.249953  0.488419  1
+  Ca  Ca2  1  -0.000000  0.749940  0.511553  1
+  Ca  Ca3  1  0.500000  0.749929  0.571792  1
+  Ca  Ca4  1  -0.000000  0.249972  0.428252  1
+  Sn  Sn5  1  -0.000000  0.539478  0.607625  1
+  Sn  Sn6  1  -0.000000  0.960344  0.607653  1
+  Sn  Sn7  1  0.500000  0.460464  0.392345  1
+  Sn  Sn8  1  0.500000  0.039517  0.392369  1
+  Sn  Sn9  1  0.250019  0.499945  0.499979  1
+  Sn  Sn10  1  0.750006  0.999957  0.500012  1
+  Sn  Sn11  1  0.749981  0.499945  0.499979  1
+  Sn  Sn12  1  0.249994  0.999957  0.500012  1
+  O  O13  1  -0.000000  0.583560  0.464649  1
+  O  O14  1  -0.000000  0.916342  0.464669  1
+  O  O15  1  0.500000  0.416316  0.535334  1
+  O  O16  1  0.500000  0.083583  0.535352  1
+  O  O17  1  -0.000000  0.421513  0.542906  1
+  O  O18  1  -0.000000  0.078315  0.542966  1
+  O  O19  1  0.500000  0.578368  0.457067  1
+  O  O20  1  0.500000  0.921560  0.457078  1
+  O  O21  1  0.268107  0.376335  0.439626  1
+  O  O22  1  0.731936  0.123597  0.439668  1
+  O  O23  1  0.768078  0.623575  0.560337  1
+  O  O24  1  0.231942  0.876287  0.560362  1
+  O  O25  1  0.231922  0.623575  0.560337  1
+  O  O26  1  0.768058  0.876287  0.560362  1
+  O  O27  1  0.731893  0.376335  0.439626  1
+  O  O28  1  0.268064  0.123597  0.439668  1

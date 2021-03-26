@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ZnTeMoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38989784
+_cell_length_b   5.34100516
+_cell_length_c   24.09752100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.60204771
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnTeMoO6
+_chemical_formula_sum   'Zn1 Te1 Mo1 O6'
+_cell_volume   693.68998323
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn1  1  0.500000  0.500000  0.555795  1
+  Te  Te2  1  -0.000000  0.500000  0.498167  1
+  Mo  Mo3  1  0.500000  0.000000  0.471123  1
+  O  O4  1  0.202230  0.317280  0.549435  1
+  O  O5  1  0.797770  0.682720  0.549435  1
+  O  O6  1  0.684738  0.814079  0.428231  1
+  O  O7  1  0.288372  0.775887  0.509792  1
+  O  O8  1  0.711628  0.224113  0.509792  1
+  O  O9  1  0.315262  0.185921  0.428231  1

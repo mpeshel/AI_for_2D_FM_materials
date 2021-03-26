@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZnMoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.83496060
+_cell_length_b   4.82338527
+_cell_length_c   24.37345200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   95.54865379
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnMoO4
+_chemical_formula_sum   'Zn2 Mo2 O8'
+_cell_volume   565.74697950
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn1  1  0.500000  0.750000  0.438640  1
+  Zn  Zn2  1  0.500000  0.250000  0.561360  1
+  Mo  Mo3  1  -0.000000  0.250000  0.452515  1
+  Mo  Mo4  1  -0.000000  0.750000  0.547485  1
+  O  O5  1  0.758270  0.055463  0.407928  1
+  O  O6  1  0.241730  0.444537  0.407928  1
+  O  O7  1  0.241730  0.944537  0.592072  1
+  O  O8  1  0.758270  0.555463  0.592072  1
+  O  O9  1  0.222248  0.960972  0.476356  1
+  O  O10  1  0.777752  0.539028  0.476356  1
+  O  O11  1  0.777752  0.039028  0.523644  1
+  O  O12  1  0.222248  0.460972  0.523644  1

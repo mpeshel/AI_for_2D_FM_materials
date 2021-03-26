@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Hg3SbAsS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.37117147
+_cell_length_b   19.53761964
+_cell_length_c   29.42713348
+_cell_angle_alpha   89.23979339
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg3SbAsS3
+_chemical_formula_sum   'Hg12 Sb4 As4 S12'
+_cell_volume   2512.92324970
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg1  1  0.286639  0.690946  0.519698  1
+  Hg  Hg2  1  0.120749  0.367189  0.595522  1
+  Hg  Hg3  1  0.379251  0.867189  0.595522  1
+  Hg  Hg4  1  0.206206  0.045656  0.430182  1
+  Hg  Hg5  1  0.786639  0.391913  0.480302  1
+  Hg  Hg6  1  0.793794  0.537203  0.569818  1
+  Hg  Hg7  1  0.620749  0.715670  0.404478  1
+  Hg  Hg8  1  0.213361  0.190946  0.519698  1
+  Hg  Hg9  1  0.713361  0.891913  0.480302  1
+  Hg  Hg10  1  0.879251  0.215670  0.404478  1
+  Hg  Hg11  1  0.293794  0.545656  0.430182  1
+  Hg  Hg12  1  0.706206  0.037203  0.569818  1
+  Sb  Sb13  1  0.323826  0.377310  0.366517  1
+  Sb  Sb14  1  0.176174  0.877310  0.366517  1
+  Sb  Sb15  1  0.676174  0.205549  0.633483  1
+  Sb  Sb16  1  0.823826  0.705549  0.633483  1
+  As  As17  1  0.663844  0.627119  0.468169  1
+  As  As18  1  0.836156  0.127119  0.468169  1
+  As  As19  1  0.336156  0.955740  0.531831  1
+  As  As20  1  0.163844  0.455740  0.531831  1
+  S  S21  1  0.396134  0.320074  0.442284  1
+  S  S22  1  0.563485  0.968648  0.393019  1
+  S  S23  1  0.896134  0.762785  0.557716  1
+  S  S24  1  0.447724  0.790424  0.660888  1
+  S  S25  1  0.103866  0.820074  0.442284  1
+  S  S26  1  0.436515  0.614211  0.606981  1
+  S  S27  1  0.947724  0.292435  0.339112  1
+  S  S28  1  0.063485  0.114211  0.606981  1
+  S  S29  1  0.936515  0.468648  0.393019  1
+  S  S30  1  0.052276  0.290424  0.660888  1
+  S  S31  1  0.552276  0.792435  0.339112  1
+  S  S32  1  0.603866  0.262785  0.557716  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_VPbClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39513536
+_cell_length_b   7.20754845
+_cell_length_c   23.33273800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VPbClO3
+_chemical_formula_sum   'V2 Pb2 Cl2 O6'
+_cell_volume   907.30983842
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V1  1  0.750000  0.431918  0.512184  1
+  V  V2  1  0.250000  0.568083  0.487816  1
+  Pb  Pb3  1  0.750000  0.894340  0.565228  1
+  Pb  Pb4  1  0.250000  0.105660  0.434772  1
+  Cl  Cl5  1  0.250000  0.047375  0.549599  1
+  Cl  Cl6  1  0.750000  0.952625  0.450401  1
+  O  O7  1  0.250000  0.734336  0.439399  1
+  O  O8  1  0.750000  0.265663  0.560601  1
+  O  O9  1  0.510620  0.618892  0.536962  1
+  O  O10  1  0.989380  0.618892  0.536962  1
+  O  O11  1  0.010620  0.381108  0.463038  1
+  O  O12  1  0.489380  0.381108  0.463038  1

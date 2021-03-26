@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AgPb4ClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.19389692
+_cell_length_b   8.19389692
+_cell_length_c   26.38002800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgPb4ClO4
+_chemical_formula_sum   'Ag2 Pb8 Cl2 O8'
+_cell_volume   1771.15367480
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag1  1  0.500000  0.000000  0.513006  1
+  Ag  Ag2  1  -0.000000  0.500000  0.486994  1
+  Pb  Pb3  1  0.828902  0.841130  0.443945  1
+  Pb  Pb4  1  0.658870  0.328902  0.443945  1
+  Pb  Pb5  1  0.341130  0.671098  0.443945  1
+  Pb  Pb6  1  0.671098  0.658870  0.556055  1
+  Pb  Pb7  1  0.841130  0.171098  0.556055  1
+  Pb  Pb8  1  0.158870  0.828902  0.556055  1
+  Pb  Pb9  1  0.171098  0.158870  0.443945  1
+  Pb  Pb10  1  0.328902  0.341130  0.556055  1
+  Cl  Cl11  1  -0.000000  0.500000  0.390903  1
+  Cl  Cl12  1  0.500000  -0.000000  0.609097  1
+  O  O13  1  0.234039  0.907129  0.476709  1
+  O  O14  1  0.592871  0.734039  0.476709  1
+  O  O15  1  0.765961  0.092871  0.476709  1
+  O  O16  1  0.407129  0.265961  0.476709  1
+  O  O17  1  0.092871  0.234039  0.523291  1
+  O  O18  1  0.734039  0.407129  0.523291  1
+  O  O19  1  0.907129  0.765961  0.523291  1
+  O  O20  1  0.265961  0.592871  0.523291  1

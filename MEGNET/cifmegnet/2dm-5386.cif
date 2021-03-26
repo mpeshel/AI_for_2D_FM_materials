@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_H2Pb4SO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25392749
+_cell_length_b   7.52987988
+_cell_length_c   28.06554952
+_cell_angle_alpha   90.20939176
+_cell_angle_beta   90.87242922
+_cell_angle_gamma   87.63691758
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H2Pb4SO8
+_chemical_formula_sum   'H4 Pb8 S2 O16'
+_cell_volume   1320.36079038
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H1  1  0.457583  0.052489  0.396577  1
+  H  H2  1  0.542417  0.947511  0.603423  1
+  H  H3  1  0.749256  0.170858  0.383956  1
+  H  H4  1  0.250744  0.829142  0.616044  1
+  Pb  Pb5  1  0.756748  0.374379  0.487783  1
+  Pb  Pb6  1  0.243252  0.625621  0.512217  1
+  Pb  Pb7  1  0.744892  0.878503  0.498028  1
+  Pb  Pb8  1  0.255108  0.121497  0.501972  1
+  Pb  Pb9  1  0.134525  0.379505  0.387505  1
+  Pb  Pb10  1  0.865475  0.620495  0.612495  1
+  Pb  Pb11  1  0.075857  0.888990  0.389563  1
+  Pb  Pb12  1  0.924143  0.111010  0.610437  1
+  S  S13  1  0.604157  0.650805  0.386522  1
+  S  S14  1  0.395843  0.349195  0.613478  1
+  O  O15  1  0.672802  0.888266  0.590489  1
+  O  O16  1  0.327198  0.111734  0.409511  1
+  O  O17  1  0.883407  0.615945  0.532291  1
+  O  O18  1  0.116593  0.384055  0.467709  1
+  O  O19  1  0.872670  0.159825  0.405810  1
+  O  O20  1  0.127330  0.840175  0.594190  1
+  O  O21  1  0.087491  0.869893  0.469259  1
+  O  O22  1  0.912509  0.130107  0.530741  1
+  O  O23  1  0.800046  0.619412  0.419215  1
+  O  O24  1  0.199954  0.380588  0.580785  1
+  O  O25  1  0.408943  0.630057  0.417012  1
+  O  O26  1  0.591057  0.369943  0.582988  1
+  O  O27  1  0.608330  0.519048  0.348396  1
+  O  O28  1  0.391670  0.480952  0.651604  1
+  O  O29  1  0.607784  0.837417  0.370158  1
+  O  O30  1  0.392216  0.162583  0.629842  1

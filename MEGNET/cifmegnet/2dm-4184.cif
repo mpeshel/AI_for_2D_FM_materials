@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ta2CrO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87219138
+_cell_length_b   5.16445236
+_cell_length_c   27.29474900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.02781982
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2CrO8
+_chemical_formula_sum   'Ta4 Cr2 O16'
+_cell_volume   686.79585999
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta1  1  0.967534  0.721471  0.597366  1
+  Ta  Ta2  1  0.939794  0.725100  0.402532  1
+  Ta  Ta3  1  0.440426  0.292087  0.402582  1
+  Ta  Ta4  1  0.468001  0.288844  0.597471  1
+  Cr  Cr5  1  0.953891  0.188891  0.499980  1
+  Cr  Cr6  1  0.453723  0.825328  0.500040  1
+  O  O7  1  0.315706  0.628219  0.550542  1
+  O  O8  1  0.592058  0.629516  0.449313  1
+  O  O9  1  0.091854  0.385918  0.449453  1
+  O  O10  1  0.815603  0.385202  0.550643  1
+  O  O11  1  0.805148  0.873757  0.533079  1
+  O  O12  1  0.102266  0.874096  0.466956  1
+  O  O13  1  0.602398  0.140571  0.466908  1
+  O  O14  1  0.305064  0.139977  0.533134  1
+  O  O15  1  0.689732  0.535735  0.635029  1
+  O  O16  1  0.218366  0.539357  0.365176  1
+  O  O17  1  0.715638  0.014289  0.618798  1
+  O  O18  1  0.192759  0.017644  0.381246  1
+  O  O19  1  0.692899  0.999563  0.381085  1
+  O  O20  1  0.215930  0.995401  0.618852  1
+  O  O21  1  0.189524  0.474035  0.634828  1
+  O  O22  1  0.718138  0.478109  0.364988  1

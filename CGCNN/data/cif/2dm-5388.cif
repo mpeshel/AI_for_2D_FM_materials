@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TaPbF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01408768
+_cell_length_b   6.51253727
+_cell_length_c   23.26315300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   94.35942412
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaPbF7
+_chemical_formula_sum   'Ta1 Pb1 F7'
+_cell_volume   757.44728936
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta1  1  0.465872  0.786127  0.500000  1
+  Pb  Pb2  1  0.016670  0.332765  0.500000  1
+  F  F3  1  0.674886  0.798989  0.567663  1
+  F  F4  1  0.213319  0.614799  0.445505  1
+  F  F5  1  0.614950  0.496125  0.500000  1
+  F  F6  1  0.609286  0.082995  0.500000  1
+  F  F7  1  0.213319  0.614799  0.554495  1
+  F  F8  1  0.674886  0.798989  0.432337  1
+  F  F9  1  0.153983  0.946430  0.500000  1

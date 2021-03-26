@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CuMoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.20383085
+_cell_length_b   11.04824628
+_cell_length_c   22.43007100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   104.46750078
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuMoO4
+_chemical_formula_sum   'Cu3 Mo3 O12'
+_cell_volume   1488.63822947
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu1  1  0.890651  0.922368  0.476228  1
+  Cu  Cu2  1  0.707175  0.357827  0.482264  1
+  Cu  Cu3  1  0.555447  0.591420  0.481302  1
+  Mo  Mo4  1  0.400355  0.020592  0.502749  1
+  Mo  Mo5  1  0.052048  0.685850  0.504923  1
+  Mo  Mo6  1  0.197355  0.263524  0.502297  1
+  O  O7  1  0.162847  0.868495  0.481887  1
+  O  O8  1  0.081360  0.692298  0.580974  1
+  O  O9  1  0.290596  0.642982  0.473546  1
+  O  O10  1  0.494290  0.198693  0.489088  1
+  O  O11  1  0.161181  0.270259  0.577894  1
+  O  O12  1  0.966594  0.306769  0.467412  1
+  O  O13  1  0.777286  0.745953  0.479656  1
+  O  O14  1  0.112786  0.083312  0.483635  1
+  O  O15  1  0.428720  0.408917  0.482092  1
+  O  O16  1  0.427189  0.007065  0.578168  1
+  O  O17  1  0.825146  0.535752  0.488228  1
+  O  O18  1  0.625773  0.973041  0.467654  1

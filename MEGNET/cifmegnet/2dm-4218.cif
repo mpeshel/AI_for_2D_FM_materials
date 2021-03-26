@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84964840
+_cell_length_b   5.88931252
+_cell_length_c   29.38599700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAsO4
+_chemical_formula_sum   'Ta2 As2 O8'
+_cell_volume   666.23293311
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta1  1  0.500000  0.811453  0.458716  1
+  Ta  Ta2  1  0.500000  0.311453  0.541284  1
+  As  As3  1  0.500000  0.797414  0.357964  1
+  As  As4  1  0.500000  0.297414  0.642036  1
+  O  O5  1  0.000000  0.320276  0.549595  1
+  O  O6  1  0.500000  0.584917  0.397605  1
+  O  O7  1  0.500000  0.019080  0.395772  1
+  O  O8  1  0.500000  0.551662  0.497569  1
+  O  O9  1  0.500000  0.051662  0.502431  1
+  O  O10  1  0.500000  0.519080  0.604228  1
+  O  O11  1  0.500000  0.084917  0.602395  1
+  O  O12  1  0.000000  0.820276  0.450405  1

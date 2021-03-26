@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ReHgO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21673309
+_cell_length_b   15.26688104
+_cell_length_c   26.03059943
+_cell_angle_alpha   90.63827423
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReHgO4
+_chemical_formula_sum   'Re4 Hg4 O16'
+_cell_volume   2073.03273153
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re1  1  0.853123  0.203196  0.566617  1
+  Re  Re2  1  0.146877  0.796804  0.433383  1
+  Re  Re3  1  0.353123  0.296804  0.433383  1
+  Re  Re4  1  0.646877  0.703196  0.566617  1
+  Hg  Hg5  1  0.158660  0.564266  0.502975  1
+  Hg  Hg6  1  0.341340  0.064266  0.502975  1
+  Hg  Hg7  1  0.658660  0.935734  0.497025  1
+  Hg  Hg8  1  0.841340  0.435734  0.497025  1
+  O  O9  1  0.982925  0.137171  0.515277  1
+  O  O10  1  0.017075  0.862829  0.484723  1
+  O  O11  1  0.427425  0.185532  0.441979  1
+  O  O12  1  0.482925  0.362829  0.484723  1
+  O  O13  1  0.973781  0.169366  0.624873  1
+  O  O14  1  0.980470  0.687355  0.565531  1
+  O  O15  1  0.526219  0.669366  0.624873  1
+  O  O16  1  0.927425  0.314468  0.558021  1
+  O  O17  1  0.517075  0.637171  0.515277  1
+  O  O18  1  0.519530  0.187355  0.565531  1
+  O  O19  1  0.019530  0.312645  0.434469  1
+  O  O20  1  0.572575  0.814468  0.558021  1
+  O  O21  1  0.480470  0.812645  0.434469  1
+  O  O22  1  0.072575  0.685532  0.441979  1
+  O  O23  1  0.473781  0.330634  0.375127  1
+  O  O24  1  0.026219  0.830634  0.375127  1

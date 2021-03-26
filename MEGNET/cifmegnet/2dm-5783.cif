@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_CuTe2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54057374
+_cell_length_b   8.98887161
+_cell_length_c   26.55872500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuTe2O5
+_chemical_formula_sum   'Cu4 Te8 O20'
+_cell_volume   1800.18355805
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu1  1  0.197732  0.016143  0.587851  1
+  Cu  Cu2  1  0.697732  0.483857  0.587851  1
+  Cu  Cu3  1  0.302268  0.516143  0.412149  1
+  Cu  Cu4  1  0.802268  0.983857  0.412149  1
+  Te  Te5  1  0.373985  0.697956  0.589765  1
+  Te  Te6  1  0.126015  0.197956  0.410235  1
+  Te  Te7  1  0.873985  0.802044  0.589765  1
+  Te  Te8  1  0.543031  0.207387  0.536882  1
+  Te  Te9  1  0.456969  0.792613  0.463118  1
+  Te  Te10  1  0.956969  0.707387  0.463118  1
+  Te  Te11  1  0.043031  0.292613  0.536882  1
+  Te  Te12  1  0.626015  0.302044  0.410235  1
+  O  O13  1  0.586317  0.095819  0.407065  1
+  O  O14  1  0.989390  0.141035  0.583325  1
+  O  O15  1  0.079836  0.856643  0.625309  1
+  O  O16  1  0.709591  0.852815  0.464766  1
+  O  O17  1  0.209591  0.647185  0.464766  1
+  O  O18  1  0.579836  0.643357  0.625309  1
+  O  O19  1  0.790409  0.352815  0.535234  1
+  O  O20  1  0.420164  0.356643  0.374691  1
+  O  O21  1  0.290409  0.147185  0.535234  1
+  O  O22  1  0.010610  0.858965  0.416675  1
+  O  O23  1  0.012415  0.817513  0.525265  1
+  O  O24  1  0.987585  0.182487  0.474735  1
+  O  O25  1  0.487585  0.317513  0.474735  1
+  O  O26  1  0.086317  0.404181  0.407065  1
+  O  O27  1  0.510610  0.641035  0.416675  1
+  O  O28  1  0.489390  0.358965  0.583325  1
+  O  O29  1  0.920164  0.143357  0.374691  1
+  O  O30  1  0.913683  0.595819  0.592935  1
+  O  O31  1  0.512415  0.682487  0.525265  1
+  O  O32  1  0.413683  0.904181  0.592935  1

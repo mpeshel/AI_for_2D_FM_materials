@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SbO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.22149489
+_cell_length_b   10.71342413
+_cell_length_c   24.52445240
+_cell_angle_alpha   91.48615159
+_cell_angle_beta   89.83012835
+_cell_angle_gamma   90.02573475
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbO2
+_chemical_formula_sum   'Sb4 O8'
+_cell_volume   846.12984427
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb1  1  0.053622  0.186521  0.550071  1
+  Sb  Sb2  1  0.555334  0.867623  0.536151  1
+  Sb  Sb3  1  0.055342  0.650971  0.464017  1
+  Sb  Sb4  1  0.557362  0.332385  0.449676  1
+  O  O5  1  0.055729  0.472280  0.474952  1
+  O  O6  1  0.556425  0.651158  0.415285  1
+  O  O7  1  0.054228  0.867217  0.584886  1
+  O  O8  1  0.554863  0.046248  0.525045  1
+  O  O9  1  0.554581  0.312245  0.533590  1
+  O  O10  1  0.056021  0.841778  0.477607  1
+  O  O11  1  0.056093  0.206509  0.466148  1
+  O  O12  1  0.554778  0.676691  0.522571  1

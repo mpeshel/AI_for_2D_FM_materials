@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ScHCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.49311357
+_cell_length_b   3.49311385
+_cell_length_c   25.74685524
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   59.99999330
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScHCl
+_chemical_formula_sum   'Sc2 H2 Cl2'
+_cell_volume   272.06973928
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc1  1  0.333333  0.333333  0.451138  1
+  Sc  Sc2  1  0.666667  0.666667  0.548862  1
+  H  H3  1  0.333333  0.333333  0.528981  1
+  H  H4  1  0.666667  0.666667  0.471019  1
+  Cl  Cl5  1  0.000000  -0.000000  0.611496  1
+  Cl  Cl6  1  0.000000  -0.000000  0.388504  1

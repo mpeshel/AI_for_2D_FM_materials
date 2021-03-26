@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Zn2SeCl2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.71324433
+_cell_length_b   10.36858881
+_cell_length_c   25.92844204
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.12420211
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2SeCl2O3
+_chemical_formula_sum   'Zn8 Se4 Cl8 O12'
+_cell_volume   2073.39680381
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn1  1  0.979456  0.988980  0.567901  1
+  Zn  Zn2  1  0.943572  0.721365  0.473657  1
+  Zn  Zn3  1  0.185017  0.488980  0.432099  1
+  Zn  Zn4  1  0.220901  0.221365  0.526343  1
+  Zn  Zn5  1  0.685017  0.011020  0.432099  1
+  Zn  Zn6  1  0.720901  0.278635  0.526343  1
+  Zn  Zn7  1  0.443572  0.778635  0.473657  1
+  Zn  Zn8  1  0.479456  0.511020  0.567901  1
+  Se  Se9  1  0.547886  0.031834  0.555634  1
+  Se  Se10  1  0.047886  0.468166  0.555634  1
+  Se  Se11  1  0.616587  0.531834  0.444366  1
+  Se  Se12  1  0.116587  0.968166  0.444366  1
+  Cl  Cl13  1  0.399701  0.718196  0.567112  1
+  Cl  Cl14  1  0.899701  0.781804  0.567112  1
+  Cl  Cl15  1  0.004109  0.604754  0.384020  1
+  Cl  Cl16  1  0.160364  0.104754  0.615980  1
+  Cl  Cl17  1  0.264771  0.281804  0.432888  1
+  Cl  Cl18  1  0.660364  0.395246  0.615980  1
+  Cl  Cl19  1  0.764771  0.218196  0.432888  1
+  Cl  Cl20  1  0.504109  0.895246  0.384020  1
+  O  O21  1  0.550276  0.951512  0.496571  1
+  O  O22  1  0.975232  0.318303  0.535453  1
+  O  O23  1  0.904994  0.910712  0.442504  1
+  O  O24  1  0.114197  0.048488  0.503429  1
+  O  O25  1  0.404994  0.589288  0.442504  1
+  O  O26  1  0.614197  0.451512  0.503429  1
+  O  O27  1  0.050276  0.548488  0.496571  1
+  O  O28  1  0.689240  0.681697  0.464547  1
+  O  O29  1  0.259478  0.410712  0.557496  1
+  O  O30  1  0.189240  0.818303  0.464547  1
+  O  O31  1  0.759478  0.089288  0.557496  1
+  O  O32  1  0.475232  0.181697  0.535453  1

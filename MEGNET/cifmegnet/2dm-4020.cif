@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Zn2W2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.43783893
+_cell_length_b   5.07865736
+_cell_length_c   24.13854607
+_cell_angle_alpha   88.88917704
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2W2O5
+_chemical_formula_sum   'Zn2 W2 O5'
+_cell_volume   421.37029988
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn1  1  0.000000  0.185599  0.413957  1
+  Zn  Zn2  1  -0.000000  0.813220  0.589583  1
+  W  W3  1  0.500000  0.335636  0.545637  1
+  W  W4  1  0.500000  0.673952  0.453345  1
+  O  O5  1  0.500000  0.657357  0.600082  1
+  O  O6  1  0.500000  0.351629  0.402248  1
+  O  O7  1  -0.000000  0.203590  0.580236  1
+  O  O8  1  -0.000000  0.787388  0.417302  1
+  O  O9  1  0.500000  0.991689  0.497608  1

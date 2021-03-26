@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiCo5O5F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.26025211
+_cell_length_b   3.26025232
+_cell_length_c   35.00001053
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999797
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCo5O5F
+_chemical_formula_sum   'Li1 Co5 O5 F1'
+_cell_volume   322.18195533
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li1  1  0.000000  -0.000000  0.288471  1
+  Co  Co2  1  0.000000  -0.000000  0.433867  1
+  Co  Co3  1  0.000000  -0.000000  0.584621  1
+  Co  Co4  1  0.333333  0.666667  0.509142  1
+  Co  Co5  1  0.333333  0.666667  0.358674  1
+  Co  Co6  1  0.333333  0.666667  0.661449  1
+  O  O7  1  0.000000  -0.000000  0.490525  1
+  O  O8  1  0.000000  -0.000000  0.339315  1
+  O  O9  1  0.000000  -0.000000  0.641186  1
+  O  O10  1  0.333333  0.666667  0.415252  1
+  O  O11  1  0.333333  0.666667  0.565760  1
+  F  F12  1  0.333333  0.666667  0.711736  1

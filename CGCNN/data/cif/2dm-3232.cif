@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BaMgSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84185579
+_cell_length_b   6.84185579
+_cell_length_c   30.81564000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMgSn
+_chemical_formula_sum   'Ba2 Mg2 Sn2'
+_cell_volume   1442.51063595
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.500000  0.500000  0.500000  1
+  Ba  Ba2  1  -0.000000  0.000000  0.500000  1
+  Mg  Mg3  1  0.000000  0.500000  0.383800  1
+  Mg  Mg4  1  0.500000  0.000000  0.616200  1
+  Sn  Sn5  1  -0.000000  0.500000  0.469417  1
+  Sn  Sn6  1  0.500000  0.000000  0.530583  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Bi2Te5Pb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48709614
+_cell_length_b   4.48709634
+_cell_length_c   35.73675400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000578
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi2Te5Pb2
+_chemical_formula_sum   'Bi2 Te5 Pb2'
+_cell_volume   623.12686797
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi1  1  0.333333  0.666667  0.443714  1
+  Bi  Bi2  1  0.666667  0.333333  0.556286  1
+  Te  Te3  1  0.666667  0.333333  0.720245  1
+  Te  Te4  1  0.666667  0.333333  0.396016  1
+  Te  Te5  1  0.333333  0.666667  0.603984  1
+  Te  Te6  1  -0.000000  -0.000000  0.500000  1
+  Te  Te7  1  0.333333  0.666667  0.279755  1
+  Pb  Pb8  1  0.000000  -0.000000  0.324560  1
+  Pb  Pb9  1  0.000000  -0.000000  0.675440  1

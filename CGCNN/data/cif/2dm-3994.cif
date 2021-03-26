@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ba2LiN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17984935
+_cell_length_b   8.17984935
+_cell_length_c   26.78496400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LiN
+_chemical_formula_sum   'Ba8 Li4 N4'
+_cell_volume   1792.18021063
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.740664  0.500000  0.548253  1
+  Ba  Ba2  1  0.259336  0.500000  0.548253  1
+  Ba  Ba3  1  -0.000000  0.724191  0.434797  1
+  Ba  Ba4  1  0.500000  0.740664  0.451747  1
+  Ba  Ba5  1  -0.000000  0.275809  0.434797  1
+  Ba  Ba6  1  0.275809  -0.000000  0.565203  1
+  Ba  Ba7  1  0.500000  0.259336  0.451747  1
+  Ba  Ba8  1  0.724191  -0.000000  0.565203  1
+  Li  Li9  1  0.290074  0.500000  0.374293  1
+  Li  Li10  1  0.500000  0.709926  0.625707  1
+  Li  Li11  1  0.500000  0.290074  0.625707  1
+  Li  Li12  1  0.709926  0.500000  0.374293  1
+  N  N13  1  0.500000  0.244875  0.552888  1
+  N  N14  1  0.244875  0.500000  0.447112  1
+  N  N15  1  0.500000  0.755125  0.552888  1
+  N  N16  1  0.755125  0.500000  0.447112  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ca3SiBr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48811394
+_cell_length_b   4.48811406
+_cell_length_c   28.71320000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.57337435
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3SiBr2
+_chemical_formula_sum   'Ca3 Si1 Br2'
+_cell_volume   503.02665227
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca1  1  0.582053  0.417947  0.603301  1
+  Ca  Ca2  1  0.318899  0.681101  0.442336  1
+  Ca  Ca3  1  0.649107  0.350893  0.353074  1
+  Si  Si4  1  0.984068  0.015932  0.397382  1
+  Br  Br5  1  0.250104  0.749896  0.551203  1
+  Br  Br6  1  0.916816  0.083184  0.652703  1

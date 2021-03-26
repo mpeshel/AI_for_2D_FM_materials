@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ca2Bi10O17
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.91809355
+_cell_length_b   7.91809315
+_cell_length_c   27.30021800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.69587143
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Bi10O17
+_chemical_formula_sum   'Ca2 Bi10 O17'
+_cell_volume   1486.82816807
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca1  1  0.593124  0.406876  0.502019  1
+  Ca  Ca2  1  0.092734  0.907266  0.506608  1
+  Bi  Bi3  1  0.425114  0.574886  0.609700  1
+  Bi  Bi4  1  0.921564  0.078436  0.611794  1
+  Bi  Bi5  1  0.758557  0.729192  0.386602  1
+  Bi  Bi6  1  0.270808  0.241443  0.386602  1
+  Bi  Bi7  1  0.087171  0.407864  0.502015  1
+  Bi  Bi8  1  0.592136  0.912829  0.502015  1
+  Bi  Bi9  1  0.914303  0.550000  0.611788  1
+  Bi  Bi10  1  0.450000  0.085697  0.611788  1
+  Bi  Bi11  1  0.254970  0.745030  0.384545  1
+  Bi  Bi12  1  0.770070  0.229930  0.379706  1
+  O  O13  1  0.421872  0.578128  0.531566  1
+  O  O14  1  0.912698  0.087302  0.533001  1
+  O  O15  1  0.944297  0.055703  0.380259  1
+  O  O16  1  0.112131  0.407339  0.592251  1
+  O  O17  1  0.592661  0.887869  0.592251  1
+  O  O18  1  0.773347  0.729958  0.462605  1
+  O  O19  1  0.270042  0.226653  0.462605  1
+  O  O20  1  0.760635  0.239365  0.634746  1
+  O  O21  1  0.417152  0.582848  0.385868  1
+  O  O22  1  0.916665  0.543487  0.534329  1
+  O  O23  1  0.456513  0.083335  0.534329  1
+  O  O24  1  0.090764  0.909236  0.593373  1
+  O  O25  1  0.245106  0.754894  0.461227  1
+  O  O26  1  0.761656  0.238344  0.456400  1
+  O  O27  1  0.581396  0.418604  0.596182  1
+  O  O28  1  0.444084  0.081245  0.376913  1
+  O  O29  1  0.918755  0.555916  0.376913  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Mo3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17632684
+_cell_length_b   6.23193593
+_cell_length_c   22.18446000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.29474218
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mo3O8
+_chemical_formula_sum   'Mo3 O8'
+_cell_volume   741.67725207
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo1  1  0.351516  0.776435  0.506414  1
+  Mo  Mo2  1  0.872049  0.776435  0.506414  1
+  Mo  Mo3  1  0.849511  0.300979  0.487543  1
+  O  O4  1  0.160315  0.679369  0.453674  1
+  O  O5  1  0.717818  0.121526  0.457498  1
+  O  O6  1  0.160656  0.121526  0.457498  1
+  O  O7  1  0.542252  0.915497  0.541030  1
+  O  O8  1  0.549438  0.473321  0.545853  1
+  O  O9  1  0.977242  0.473321  0.545853  1
+  O  O10  1  0.022324  0.955353  0.549961  1
+  O  O11  1  0.694445  0.611110  0.448261  1

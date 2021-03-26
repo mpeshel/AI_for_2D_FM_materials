@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LiV2OF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80976999
+_cell_length_b   5.81107664
+_cell_length_c   22.93810900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   117.33938418
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiV2OF7
+_chemical_formula_sum   'Li1 V2 O1 F7'
+_cell_volume   687.91324975
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li1  1  0.634078  0.366827  0.436120  1
+  V  V2  1  0.628845  0.856612  0.506569  1
+  V  V3  1  0.144481  0.372267  0.506569  1
+  O  O4  1  0.455589  0.545565  0.464585  1
+  F  F5  1  0.301176  0.699827  0.549775  1
+  F  F6  1  0.497697  0.023982  0.457277  1
+  F  F7  1  0.977029  0.503322  0.457271  1
+  F  F8  1  0.801496  0.199515  0.547546  1
+  F  F9  1  0.262219  0.218748  0.556197  1
+  F  F10  1  0.782484  0.739011  0.556203  1
+  F  F11  1  0.960357  0.040785  0.461888  1

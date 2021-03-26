@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr2CrCu2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13477301
+_cell_length_b   5.27981754
+_cell_length_c   29.48677800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.99458392
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CrCu2O7
+_chemical_formula_sum   'Sr4 Cr2 Cu4 O14'
+_cell_volume   799.40614506
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr1  1  0.048509  0.993808  0.411061  1
+  Sr  Sr2  1  0.548937  0.508848  0.588941  1
+  Sr  Sr3  1  0.548594  0.508788  0.411057  1
+  Sr  Sr4  1  0.048873  0.993819  0.588945  1
+  Cr  Cr5  1  0.981809  0.433893  0.500009  1
+  Cr  Cr6  1  0.481847  0.068761  0.500025  1
+  Cu  Cu7  1  0.548084  0.003363  0.339536  1
+  Cu  Cu8  1  0.048604  0.499414  0.660454  1
+  Cu  Cu9  1  0.048171  0.499364  0.339541  1
+  Cu  Cu10  1  0.548524  0.003412  0.660449  1
+  O  O11  1  0.122685  0.106933  0.500013  1
+  O  O12  1  0.622649  0.395682  0.500010  1
+  O  O13  1  0.298148  0.751573  0.351842  1
+  O  O14  1  0.798545  0.751158  0.648124  1
+  O  O15  1  0.798121  0.751113  0.351867  1
+  O  O16  1  0.298618  0.751613  0.648151  1
+  O  O17  1  0.798422  0.251190  0.353905  1
+  O  O18  1  0.298823  0.251503  0.646000  1
+  O  O19  1  0.298398  0.251487  0.354003  1
+  O  O20  1  0.798835  0.251262  0.646096  1
+  O  O21  1  0.068771  0.541925  0.445388  1
+  O  O22  1  0.568980  0.960626  0.554593  1
+  O  O23  1  0.568868  0.960437  0.445423  1
+  O  O24  1  0.068999  0.542057  0.554569  1

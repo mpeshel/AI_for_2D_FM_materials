@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiCuCO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05783504
+_cell_length_b   5.07328268
+_cell_length_c   19.28973802
+_cell_angle_alpha   89.87902967
+_cell_angle_beta   89.99840008
+_cell_angle_gamma   60.54164113
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCuCO3
+_chemical_formula_sum   'Li1 Cu1 C1 O3'
+_cell_volume   430.97689965
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li1  1  0.768821  0.291789  0.506827  1
+  Cu  Cu2  1  0.439640  0.961742  0.496309  1
+  C  C3  1  0.100277  0.627588  0.499132  1
+  O  O4  1  0.361198  0.382126  0.499739  1
+  O  O5  1  0.853638  0.611218  0.492991  1
+  O  O6  1  0.086884  0.888072  0.505001  1

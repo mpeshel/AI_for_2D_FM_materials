@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Mg2Te3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20327710
+_cell_length_b   6.88343097
+_cell_length_c   25.14723800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   67.79282946
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Te3O8
+_chemical_formula_sum   'Mg2 Te3 O8'
+_cell_volume   833.87376466
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg1  1  0.762351  0.412384  0.458328  1
+  Mg  Mg2  1  0.174735  0.587616  0.541672  1
+  Te  Te3  1  0.090939  0.644405  0.406948  1
+  Te  Te4  1  0.603076  -0.000000  0.500000  1
+  Te  Te5  1  0.735344  0.355595  0.593052  1
+  O  O6  1  0.774288  0.124618  0.453060  1
+  O  O7  1  0.435930  0.608907  0.601537  1
+  O  O8  1  0.336948  0.572118  0.466267  1
+  O  O9  1  0.753847  0.731710  0.447657  1
+  O  O10  1  0.485558  0.268290  0.552343  1
+  O  O11  1  0.909066  0.427882  0.533733  1
+  O  O12  1  0.044837  0.391093  0.398463  1
+  O  O13  1  0.898905  0.875382  0.546940  1

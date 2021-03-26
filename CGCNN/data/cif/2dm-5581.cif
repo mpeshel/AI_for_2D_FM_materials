@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbIO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26199902
+_cell_length_b   6.07598997
+_cell_length_c   27.40580900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbIO
+_chemical_formula_sum   'Yb4 I4 O4'
+_cell_volume   876.21450403
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb1  1  0.514329  0.205441  0.535947  1
+  Yb  Yb2  1  0.985671  0.705441  0.535947  1
+  Yb  Yb3  1  0.014329  0.206041  0.464053  1
+  Yb  Yb4  1  0.485671  0.706041  0.464053  1
+  I  I5  1  0.753449  0.447053  0.635513  1
+  I  I6  1  0.746551  0.947053  0.635513  1
+  I  I7  1  0.253449  0.964429  0.364487  1
+  I  I8  1  0.246551  0.464429  0.364487  1
+  O  O9  1  0.250314  0.455710  0.504004  1
+  O  O10  1  0.249686  0.955710  0.504004  1
+  O  O11  1  0.750314  0.955772  0.495996  1
+  O  O12  1  0.749686  0.455772  0.495996  1

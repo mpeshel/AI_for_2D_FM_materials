@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Al2Te5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18084534
+_cell_length_b   8.31288445
+_cell_length_c   24.07808300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   104.56438201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2Te5
+_chemical_formula_sum   'Al2 Te5'
+_cell_volume   809.93999448
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al1  1  0.693564  0.387129  0.542414  1
+  Al  Al2  1  0.306436  0.612871  0.457586  1
+  Te  Te3  1  0.547060  0.094121  0.586837  1
+  Te  Te4  1  0.452940  0.905879  0.413163  1
+  Te  Te5  1  -0.000000  -0.000000  0.500000  1
+  Te  Te6  1  0.707939  0.415880  0.430778  1
+  Te  Te7  1  0.292061  0.584120  0.569222  1

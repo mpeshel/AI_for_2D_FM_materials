@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li4CO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15532815
+_cell_length_b   5.09004406
+_cell_length_c   22.97130400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   114.09067844
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4CO4
+_chemical_formula_sum   'Li4 C1 O4'
+_cell_volume   443.54328433
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li1  1  0.216573  0.348315  0.508156  1
+  Li  Li2  1  0.734329  0.968709  0.565238  1
+  Li  Li3  1  0.765619  0.031291  0.434762  1
+  Li  Li4  1  0.868259  0.651686  0.491844  1
+  C  C5  1  0.383436  0.000000  0.500000  1
+  O  O6  1  0.209185  0.021773  0.449514  1
+  O  O7  1  0.187411  0.978227  0.550486  1
+  O  O8  1  0.712294  0.249575  0.504362  1
+  O  O9  1  0.462720  0.750425  0.495638  1

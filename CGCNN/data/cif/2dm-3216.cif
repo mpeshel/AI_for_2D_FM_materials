@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HoSI
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14430728
+_cell_length_b   5.31079099
+_cell_length_c   26.67683000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoSI
+_chemical_formula_sum   'Ho2 S2 I2'
+_cell_volume   587.14501739
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho1  1  0.500000  0.500000  0.457725  1
+  Ho  Ho2  1  -0.000000  0.000000  0.542275  1
+  S  S3  1  0.500000  0.000000  0.475798  1
+  S  S4  1  0.000000  0.500000  0.524202  1
+  I  I5  1  0.500000  -0.000000  0.624925  1
+  I  I6  1  -0.000000  0.500000  0.375075  1

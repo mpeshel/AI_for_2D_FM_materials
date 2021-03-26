@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_NbTlBr4O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00992281
+_cell_length_b   7.69879898
+_cell_length_c   23.69096450
+_cell_angle_alpha   89.74725416
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbTlBr4O
+_chemical_formula_sum   'Nb1 Tl1 Br4 O1'
+_cell_volume   731.37061828
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb1  1  0.452498  0.500000  0.500000  1
+  Tl  Tl2  1  0.000337  0.000000  0.500000  1
+  Br  Br3  1  0.512192  0.268726  0.422558  1
+  Br  Br4  1  0.512102  0.263189  0.575988  1
+  Br  Br5  1  0.512192  0.731274  0.577442  1
+  Br  Br6  1  0.512102  0.736811  0.424012  1
+  O  O7  1  0.999275  0.500000  0.500000  1

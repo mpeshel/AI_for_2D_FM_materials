@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Al2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06609254
+_cell_length_b   7.46517964
+_cell_length_c   34.11714179
+_cell_angle_alpha   83.96418497
+_cell_angle_beta   94.24631560
+_cell_angle_gamma   105.76887001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2S3
+_chemical_formula_sum   'Al12 S18'
+_cell_volume   1476.92053840
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al1  1  0.488492  0.806474  0.387649  1
+  Al  Al2  1  0.366286  0.273680  0.693724  1
+  Al  Al3  1  0.181642  0.704215  0.481063  1
+  Al  Al4  1  0.930632  0.641732  0.343571  1
+  Al  Al5  1  0.335082  0.050129  0.496574  1
+  Al  Al6  1  0.370323  0.254792  0.369138  1
+  Al  Al7  1  0.466259  0.810968  0.571645  1
+  Al  Al8  1  0.135790  0.063398  0.632196  1
+  Al  Al9  1  0.657512  0.097387  0.343308  1
+  Al  Al10  1  0.934538  0.370678  0.289114  1
+  Al  Al11  1  0.604908  0.468828  0.468294  1
+  Al  Al12  1  0.260940  0.763972  0.658908  1
+  S  S13  1  0.770987  0.053262  0.643819  1
+  S  S14  1  0.399814  0.339241  0.629540  1
+  S  S15  1  0.125931  0.854656  0.382367  1
+  S  S16  1  0.990098  0.668120  0.278017  1
+  S  S17  1  0.354847  0.236622  0.437959  1
+  S  S18  1  0.623456  0.763163  0.636664  1
+  S  S19  1  0.715776  0.100736  0.277242  1
+  S  S20  1  0.672914  0.038559  0.532483  1
+  S  S21  1  0.947100  0.457660  0.455501  1
+  S  S22  1  0.545134  0.577488  0.353010  1
+  S  S23  1  0.117611  0.831321  0.592107  1
+  S  S24  1  0.263540  0.542849  0.542342  1
+  S  S25  1  0.635638  0.269329  0.742383  1
+  S  S26  1  0.089991  0.454774  0.685885  1
+  S  S27  1  0.547769  0.756220  0.454755  1
+  S  S28  1  0.001126  0.334486  0.357035  1
+  S  S29  1  0.473265  0.356625  0.532704  1
+  S  S30  1  0.893873  0.513986  0.731004  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ZnCu(GeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13258913
+_cell_length_b   9.86239444
+_cell_length_c   24.85953345
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   101.13427083
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCu(GeO3)2
+_chemical_formula_sum   'Zn2 Cu2 Ge4 O12'
+_cell_volume   1234.69402940
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn1  1  0.750000  0.500000  0.581092  1
+  Zn  Zn2  1  0.250000  0.500000  0.418908  1
+  Cu  Cu3  1  0.250000  -0.000000  0.521367  1
+  Cu  Cu4  1  0.750000  -0.000000  0.478633  1
+  Ge  Ge5  1  0.925319  0.700270  0.464216  1
+  Ge  Ge6  1  0.574681  0.299730  0.464216  1
+  Ge  Ge7  1  0.074681  0.299730  0.535784  1
+  Ge  Ge8  1  0.425319  0.700270  0.535784  1
+  O  O9  1  0.072150  0.640248  0.525404  1
+  O  O10  1  0.427850  0.359752  0.525404  1
+  O  O11  1  0.927850  0.359752  0.474596  1
+  O  O12  1  0.572150  0.640248  0.474596  1
+  O  O13  1  0.549072  0.633558  0.592524  1
+  O  O14  1  0.950928  0.366442  0.592524  1
+  O  O15  1  0.450928  0.366442  0.407476  1
+  O  O16  1  0.049072  0.633558  0.407476  1
+  O  O17  1  0.990703  0.883271  0.467990  1
+  O  O18  1  0.509297  0.116729  0.467990  1
+  O  O19  1  0.009297  0.116729  0.532010  1
+  O  O20  1  0.490703  0.883271  0.532010  1

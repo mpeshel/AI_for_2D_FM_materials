@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Co2C2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86375385
+_cell_length_b   4.86509045
+_cell_length_c   24.99815100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.90556488
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2C2O7
+_chemical_formula_sum   'Co2 C2 O7'
+_cell_volume   512.75925654
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co1  1  0.279792  0.614901  0.428554  1
+  Co  Co2  1  0.240913  0.578657  0.571459  1
+  C  C3  1  0.608896  0.282316  0.402474  1
+  C  C4  1  0.573338  0.249441  0.597527  1
+  O  O5  1  0.349065  0.293166  0.400018  1
+  O  O6  1  0.313305  0.982245  0.595370  1
+  O  O7  1  0.562177  0.509177  0.600156  1
+  O  O8  1  0.259478  0.597611  0.500006  1
+  O  O9  1  0.875996  0.542018  0.404589  1
+  O  O10  1  0.597866  0.011969  0.402089  1
+  O  O11  1  0.843329  0.260476  0.597756  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_AlBiBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.77197439
+_cell_length_b   9.71709759
+_cell_length_c   25.34625500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   103.62730239
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlBiBr6
+_chemical_formula_sum   'Al2 Bi2 Br12'
+_cell_volume   1860.28911993
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al1  1  0.134078  0.331835  0.564396  1
+  Al  Al2  1  0.673770  0.545402  0.435604  1
+  Bi  Bi3  1  0.213881  0.735829  0.505070  1
+  Bi  Bi4  1  0.593967  0.141409  0.494930  1
+  Br  Br5  1  0.987313  0.841566  0.558743  1
+  Br  Br6  1  0.820535  0.035671  0.441257  1
+  Br  Br7  1  0.141618  0.381455  0.475305  1
+  Br  Br8  1  0.666229  0.495783  0.524695  1
+  Br  Br9  1  0.324719  0.195908  0.591513  1
+  Br  Br10  1  0.483129  0.681330  0.408487  1
+  Br  Br11  1  0.211290  0.554161  0.605933  1
+  Br  Br12  1  0.596558  0.323077  0.394067  1
+  Br  Br13  1  0.848810  0.214213  0.592183  1
+  Br  Br14  1  0.959037  0.663024  0.407817  1
+  Br  Br15  1  0.518907  0.888592  0.559678  1
+  Br  Br16  1  0.288940  0.988645  0.440322  1

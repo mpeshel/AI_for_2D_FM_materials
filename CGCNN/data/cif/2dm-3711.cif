@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CuHgSCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97341065
+_cell_length_b   9.90129097
+_cell_length_c   28.59412700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuHgSCl
+_chemical_formula_sum   'Cu4 Hg4 S4 Cl4'
+_cell_volume   1124.94714173
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu1  1  0.500000  0.892190  0.414143  1
+  Cu  Cu2  1  0.500000  0.392190  0.585857  1
+  Cu  Cu3  1  0.500000  0.075925  0.613835  1
+  Cu  Cu4  1  0.500000  0.575925  0.386165  1
+  Hg  Hg5  1  0.000000  0.021957  0.511232  1
+  Hg  Hg6  1  0.000000  0.521957  0.488768  1
+  Hg  Hg7  1  -0.000000  0.242062  0.415412  1
+  Hg  Hg8  1  0.000000  0.742062  0.584588  1
+  S  S9  1  -0.000000  0.485539  0.404046  1
+  S  S10  1  -0.000000  0.500470  0.573525  1
+  S  S11  1  0.000000  0.000469  0.426475  1
+  S  S12  1  -0.000000  0.985539  0.595954  1
+  Cl  Cl13  1  0.500000  0.269013  0.652373  1
+  Cl  Cl14  1  0.500000  0.769013  0.347627  1
+  Cl  Cl15  1  0.500000  0.753747  0.488653  1
+  Cl  Cl16  1  0.500000  0.253747  0.511347  1

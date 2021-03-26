@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Al2SnCl6O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.44610974
+_cell_length_b   8.96942119
+_cell_length_c   25.62365400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   98.23683966
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2SnCl6O
+_chemical_formula_sum   'Al4 Sn2 Cl12 O2'
+_cell_volume   2148.59794480
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al1  1  0.132258  0.760288  0.443574  1
+  Al  Al2  1  0.871897  0.918096  0.496747  1
+  Al  Al3  1  0.867742  0.239712  0.556426  1
+  Al  Al4  1  0.128103  0.081904  0.503253  1
+  Sn  Sn5  1  0.481176  0.718427  0.508181  1
+  Sn  Sn6  1  0.518824  0.281573  0.491819  1
+  Cl  Cl7  1  0.340908  0.870159  0.418342  1
+  Cl  Cl8  1  0.524325  0.539207  0.433791  1
+  Cl  Cl9  1  0.006514  0.354412  0.611758  1
+  Cl  Cl10  1  0.815503  0.383149  0.491649  1
+  Cl  Cl11  1  0.184497  0.616851  0.508351  1
+  Cl  Cl12  1  0.993486  0.645588  0.388242  1
+  Cl  Cl13  1  0.288288  0.050788  0.559258  1
+  Cl  Cl14  1  0.204765  0.260395  0.450970  1
+  Cl  Cl15  1  0.475675  0.460793  0.566209  1
+  Cl  Cl16  1  0.711712  0.949212  0.440742  1
+  Cl  Cl17  1  0.795235  0.739605  0.549030  1
+  Cl  Cl18  1  0.659092  0.129841  0.581658  1
+  O  O19  1  0.949979  0.093528  0.526895  1
+  O  O20  1  0.050021  0.906472  0.473105  1

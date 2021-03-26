@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CuH4(IO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58737098
+_cell_length_b   11.42655849
+_cell_length_c   26.29295000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuH4(IO4)2
+_chemical_formula_sum   'Cu2 H8 I4 O16'
+_cell_volume   1378.22024619
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu1  1  0.500000  0.500000  0.500000  1
+  Cu  Cu2  1  0.000000  0.000000  0.500000  1
+  H  H3  1  0.431603  0.102323  0.544305  1
+  H  H4  1  0.068397  0.602323  0.544305  1
+  H  H5  1  0.236221  0.518210  0.585470  1
+  H  H6  1  0.736221  0.981790  0.414530  1
+  H  H7  1  0.263779  0.018210  0.585470  1
+  H  H8  1  0.763779  0.481790  0.414530  1
+  H  H9  1  0.931603  0.397677  0.455695  1
+  H  H10  1  0.568397  0.897677  0.455695  1
+  I  I11  1  0.856764  0.268423  0.567684  1
+  I  I12  1  0.643236  0.768424  0.567684  1
+  I  I13  1  0.356764  0.231576  0.432316  1
+  I  I14  1  0.143236  0.731576  0.432316  1
+  O  O15  1  0.686520  0.174767  0.517797  1
+  O  O16  1  0.235850  0.067868  0.555599  1
+  O  O17  1  0.813480  0.674767  0.517797  1
+  O  O18  1  0.711079  0.417209  0.553621  1
+  O  O19  1  0.264150  0.567868  0.555599  1
+  O  O20  1  0.630669  0.228095  0.620416  1
+  O  O21  1  0.788921  0.917209  0.553621  1
+  O  O22  1  0.130669  0.271905  0.379584  1
+  O  O23  1  0.869331  0.728095  0.620416  1
+  O  O24  1  0.211079  0.082791  0.446379  1
+  O  O25  1  0.369331  0.771905  0.379584  1
+  O  O26  1  0.735850  0.432132  0.444401  1
+  O  O27  1  0.288921  0.582791  0.446379  1
+  O  O28  1  0.186520  0.325233  0.482203  1
+  O  O29  1  0.764150  0.932132  0.444401  1
+  O  O30  1  0.313480  0.825233  0.482203  1

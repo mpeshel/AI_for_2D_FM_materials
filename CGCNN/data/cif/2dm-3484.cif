@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ThIN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11954999
+_cell_length_b   4.11954999
+_cell_length_c   26.29650600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThIN
+_chemical_formula_sum   'Th2 I2 N2'
+_cell_volume   446.26990716
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th1  1  0.500000  0.000000  0.543603  1
+  Th  Th2  1  -0.000000  0.500000  0.456397  1
+  I  I3  1  0.000000  0.500000  0.619644  1
+  I  I4  1  0.500000  -0.000000  0.380356  1
+  N  N5  1  -0.000000  0.000000  0.500000  1
+  N  N6  1  0.500000  0.500000  0.500000  1

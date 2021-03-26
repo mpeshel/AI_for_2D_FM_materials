@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_GePt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88119004
+_cell_length_b   2.94188544
+_cell_length_c   20.08589796
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GePt
+_chemical_formula_sum   'Ge2 Pt2'
+_cell_volume   229.34111369
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge1  1  0.500000  0.548817  0.406496  1
+  Ge  Ge2  1  -0.000000  0.048817  0.593504  1
+  Pt  Pt3  1  0.000000  0.057732  0.460109  1
+  Pt  Pt4  1  0.500000  0.557732  0.539891  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CdBiS2Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83905626
+_cell_length_b   11.47826208
+_cell_length_c   25.69728500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdBiS2Cl
+_chemical_formula_sum   'Cd2 Bi2 S4 Cl2'
+_cell_volume   1132.36869467
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd1  1  0.500000  0.508893  0.502056  1
+  Cd  Cd2  1  0.500000  0.008893  0.497944  1
+  Bi  Bi3  1  0.000000  0.279113  0.421832  1
+  Bi  Bi4  1  0.000000  0.779113  0.578168  1
+  S  S5  1  0.500000  0.249276  0.490835  1
+  S  S6  1  -0.000000  0.999215  0.568532  1
+  S  S7  1  0.500000  0.749276  0.509165  1
+  S  S8  1  -0.000000  0.499215  0.431468  1
+  Cl  Cl9  1  0.000000  0.497783  0.574485  1
+  Cl  Cl10  1  0.000000  0.997783  0.425515  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Mn(PO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77930272
+_cell_length_b   4.93737449
+_cell_length_c   26.00122200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   64.44555210
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(PO4)2
+_chemical_formula_sum   'Mn1 P2 O8'
+_cell_volume   553.53555674
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn1  1  0.677141  0.145718  0.500000  1
+  P  P2  1  0.035006  0.499810  0.557388  1
+  P  P3  1  0.319276  0.791625  0.442612  1
+  O  O4  1  0.922320  0.500634  0.612810  1
+  O  O5  1  0.888159  0.377091  0.516746  1
+  O  O6  1  0.950570  0.836189  0.546233  1
+  O  O7  1  0.393421  0.324973  0.555635  1
+  O  O8  1  0.960861  0.966462  0.444365  1
+  O  O9  1  0.403712  0.455246  0.453767  1
+  O  O10  1  0.466123  0.914344  0.483254  1
+  O  O11  1  0.431963  0.790801  0.387190  1

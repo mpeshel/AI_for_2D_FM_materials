@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaLaBr5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.57516264
+_cell_length_b   16.21298396
+_cell_length_c   24.95672300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLaBr5
+_chemical_formula_sum   'Ba2 La2 Br10'
+_cell_volume   1851.21580272
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.750000  0.825258  0.476471  1
+  Ba  Ba2  1  0.250000  0.086604  0.523529  1
+  La  La3  1  0.250000  0.583982  0.523064  1
+  La  La4  1  0.750000  0.327879  0.476936  1
+  Br  Br5  1  0.250000  0.691266  0.426085  1
+  Br  Br6  1  0.750000  0.966897  0.568111  1
+  Br  Br7  1  0.750000  0.515543  0.452297  1
+  Br  Br8  1  0.250000  0.755231  0.563743  1
+  Br  Br9  1  0.250000  0.338252  0.402272  1
+  Br  Br10  1  0.750000  0.573610  0.597728  1
+  Br  Br11  1  0.750000  0.156630  0.436257  1
+  Br  Br12  1  0.250000  0.396318  0.547703  1
+  Br  Br13  1  0.250000  0.944965  0.431889  1
+  Br  Br14  1  0.750000  0.220595  0.573915  1

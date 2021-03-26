@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_LaPb6ClO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15237929
+_cell_length_b   10.06513913
+_cell_length_c   27.60412900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   113.88993365
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPb6ClO7
+_chemical_formula_sum   'La2 Pb12 Cl2 O14'
+_cell_volume   2070.99409137
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La1  1  0.000000  0.500000  0.500000  1
+  La  La2  1  0.500000  0.500000  0.500000  1
+  Pb  Pb3  1  0.129148  0.258294  0.416292  1
+  Pb  Pb4  1  0.992386  0.518268  0.362535  1
+  Pb  Pb5  1  0.092325  0.184652  0.555574  1
+  Pb  Pb6  1  0.383551  0.767103  0.425536  1
+  Pb  Pb7  1  0.474118  0.481732  0.637465  1
+  Pb  Pb8  1  0.400195  0.800390  0.564485  1
+  Pb  Pb9  1  0.599805  0.199610  0.435515  1
+  Pb  Pb10  1  0.616449  0.232897  0.574464  1
+  Pb  Pb11  1  0.870852  0.741706  0.583708  1
+  Pb  Pb12  1  0.525882  0.518268  0.362535  1
+  Pb  Pb13  1  0.007614  0.481732  0.637465  1
+  Pb  Pb14  1  0.907675  0.815348  0.444426  1
+  Cl  Cl15  1  0.267151  -0.000000  0.500000  1
+  Cl  Cl16  1  0.732849  -0.000000  0.500000  1
+  O  O17  1  0.543683  0.649052  0.580663  1
+  O  O18  1  0.330337  0.660673  0.496870  1
+  O  O19  1  0.745376  0.490752  0.616635  1
+  O  O20  1  0.613093  0.668344  0.424276  1
+  O  O21  1  0.055252  0.668344  0.424276  1
+  O  O22  1  0.386907  0.331656  0.575724  1
+  O  O23  1  0.669663  0.339327  0.503130  1
+  O  O24  1  0.944748  0.331656  0.575724  1
+  O  O25  1  0.105368  0.649052  0.580663  1
+  O  O26  1  0.830488  0.660975  0.508524  1
+  O  O27  1  0.894632  0.350948  0.419337  1
+  O  O28  1  0.254624  0.509248  0.383365  1
+  O  O29  1  0.169512  0.339025  0.491476  1
+  O  O30  1  0.456317  0.350948  0.419337  1

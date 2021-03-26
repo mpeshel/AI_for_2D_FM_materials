@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KUClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08895320
+_cell_length_b   6.94230403
+_cell_length_c   27.10623200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KUClO3
+_chemical_formula_sum   'K2 U2 Cl2 O6'
+_cell_volume   769.45800142
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K1  1  0.750000  0.431990  0.434762  1
+  K  K2  1  0.250000  0.568010  0.565238  1
+  U  U3  1  0.750000  0.064315  0.555727  1
+  U  U4  1  0.250000  0.935685  0.444273  1
+  Cl  Cl5  1  0.750000  0.829883  0.373158  1
+  Cl  Cl6  1  0.250000  0.170117  0.626842  1
+  O  O7  1  0.750000  0.986575  0.473260  1
+  O  O8  1  0.250000  0.013425  0.526740  1
+  O  O9  1  0.750000  0.323914  0.536521  1
+  O  O10  1  0.250000  0.676086  0.463479  1
+  O  O11  1  0.750000  0.811756  0.577966  1
+  O  O12  1  0.250000  0.188244  0.422034  1

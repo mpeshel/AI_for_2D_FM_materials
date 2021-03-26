@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ba2Tl2Sn3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89743662
+_cell_length_b   3.81405226
+_cell_length_c   61.36157300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.08648314
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Tl2Sn3O10
+_chemical_formula_sum   'Ba2 Tl2 Sn3 O10'
+_cell_volume   912.14039542
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.797223  0.418981  0.594814  1
+  Ba  Ba2  1  0.411208  0.695018  0.405222  1
+  Tl  Tl3  1  0.422629  0.925527  0.641234  1
+  Tl  Tl4  1  0.040314  0.187146  0.358850  1
+  Sn  Sn5  1  0.905732  0.199953  0.448146  1
+  Sn  Sn6  1  0.298594  0.912606  0.551931  1
+  Sn  Sn7  1  0.371187  0.346329  0.498879  1
+  O  O8  1  0.406258  0.197318  0.439016  1
+  O  O9  1  0.894540  0.192743  0.392788  1
+  O  O10  1  0.908235  0.699645  0.436601  1
+  O  O11  1  0.691118  0.425931  0.646496  1
+  O  O12  1  0.319035  0.890401  0.518437  1
+  O  O13  1  0.296942  0.413524  0.563048  1
+  O  O14  1  0.277103  0.921725  0.607351  1
+  O  O15  1  0.798486  0.916395  0.561814  1
+  O  O16  1  0.310572  0.687948  0.353720  1
+  O  O17  1  0.893643  0.238079  0.481652  1

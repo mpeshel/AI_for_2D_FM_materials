@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZnFe2S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.55616724
+_cell_length_b   13.37936144
+_cell_length_c   23.91487154
+_cell_angle_alpha   89.79231324
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnFe2S5
+_chemical_formula_sum   'Zn2 Fe4 S10'
+_cell_volume   1137.84410083
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn1  1  0.500000  0.250268  0.594639  1
+  Zn  Zn2  1  -0.000000  0.750200  0.405331  1
+  Fe  Fe3  1  -0.000000  0.098758  0.508241  1
+  Fe  Fe4  1  0.500000  0.901810  0.491682  1
+  Fe  Fe5  1  0.500000  0.598073  0.492260  1
+  Fe  Fe6  1  -0.000000  0.402606  0.507790  1
+  S  S7  1  0.500000  0.749862  0.526832  1
+  S  S8  1  0.000000  0.250797  0.473210  1
+  S  S9  1  0.500000  0.061430  0.455734  1
+  S  S10  1  -0.000000  0.939156  0.544222  1
+  S  S11  1  0.500000  0.440126  0.455244  1
+  S  S12  1  0.000000  0.560538  0.544821  1
+  S  S13  1  -0.000000  0.367796  0.598701  1
+  S  S14  1  0.500000  0.632693  0.401347  1
+  S  S15  1  0.500000  0.867433  0.400850  1
+  S  S16  1  -0.000000  0.133024  0.599096  1

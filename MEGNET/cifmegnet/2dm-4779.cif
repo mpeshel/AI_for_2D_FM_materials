@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_PrTe2Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31981879
+_cell_length_b   4.32265643
+_cell_length_c   29.01816427
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrTe2Se
+_chemical_formula_sum   'Pr2 Te4 Se2'
+_cell_volume   541.85886470
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr1  1  0.500000  0.000000  0.564130  1
+  Pr  Pr2  1  0.000000  0.500000  0.435870  1
+  Te  Te3  1  0.500000  0.500000  0.655874  1
+  Te  Te4  1  -0.000000  -0.000000  0.344126  1
+  Te  Te5  1  0.500000  0.500000  0.344022  1
+  Te  Te6  1  0.000000  -0.000000  0.655978  1
+  Se  Se7  1  0.500000  0.000000  0.459667  1
+  Se  Se8  1  0.000000  0.500000  0.540333  1

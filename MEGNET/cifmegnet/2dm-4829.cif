@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Bi2Te2WO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59213142
+_cell_length_b   12.45332223
+_cell_length_c   25.50781800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi2Te2WO10
+_chemical_formula_sum   'Bi4 Te4 W2 O20'
+_cell_volume   1776.38012073
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi1  1  0.270834  0.521523  0.546310  1
+  Bi  Bi2  1  0.729166  0.021523  0.546310  1
+  Bi  Bi3  1  0.270834  0.934533  0.453690  1
+  Bi  Bi4  1  0.729166  0.434533  0.453690  1
+  Te  Te5  1  0.238769  0.623157  0.406301  1
+  Te  Te6  1  0.761231  0.332899  0.593699  1
+  Te  Te7  1  0.761231  0.123157  0.406301  1
+  Te  Te8  1  0.238769  0.832899  0.593699  1
+  W  W9  1  0.310078  0.228028  0.500000  1
+  W  W10  1  0.689922  0.728028  0.500000  1
+  O  O11  1  0.103211  0.917363  0.538570  1
+  O  O12  1  0.896790  0.417363  0.538570  1
+  O  O13  1  0.599493  0.880062  0.499690  1
+  O  O14  1  0.393884  0.735916  0.443829  1
+  O  O15  1  0.503064  0.530731  0.393763  1
+  O  O16  1  0.606116  0.220141  0.556171  1
+  O  O17  1  0.400507  0.075995  0.500310  1
+  O  O18  1  0.400507  0.380062  0.499690  1
+  O  O19  1  0.496936  0.425326  0.606237  1
+  O  O20  1  0.606116  0.235916  0.443829  1
+  O  O21  1  0.106174  0.234433  0.445215  1
+  O  O22  1  0.893826  0.721623  0.554785  1
+  O  O23  1  0.896790  0.038694  0.461430  1
+  O  O24  1  0.496936  0.030731  0.393763  1
+  O  O25  1  0.393884  0.720141  0.556171  1
+  O  O26  1  0.106174  0.221623  0.554785  1
+  O  O27  1  0.503064  0.925326  0.606237  1
+  O  O28  1  0.599493  0.575995  0.500310  1
+  O  O29  1  0.103210  0.538694  0.461430  1
+  O  O30  1  0.893826  0.734433  0.445215  1

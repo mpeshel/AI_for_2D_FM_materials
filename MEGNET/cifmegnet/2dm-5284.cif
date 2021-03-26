@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_MgGe2WO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02779646
+_cell_length_b   8.79911634
+_cell_length_c   24.87353700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgGe2WO6
+_chemical_formula_sum   'Mg2 Ge4 W2 O12'
+_cell_volume   1100.40940552
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg1  1  0.750000  0.847111  0.500000  1
+  Mg  Mg2  1  0.250000  0.152889  0.500000  1
+  Ge  Ge3  1  0.722100  0.105837  0.402475  1
+  Ge  Ge4  1  0.777900  0.105837  0.597525  1
+  Ge  Ge5  1  0.277900  0.894163  0.597525  1
+  Ge  Ge6  1  0.222100  0.894163  0.402475  1
+  W  W7  1  0.750000  0.398696  0.500000  1
+  W  W8  1  0.250000  0.601304  0.500000  1
+  O  O9  1  0.539149  0.942490  0.440818  1
+  O  O10  1  0.960851  0.942490  0.559182  1
+  O  O11  1  0.460851  0.057510  0.559182  1
+  O  O12  1  0.039149  0.057510  0.440818  1
+  O  O13  1  0.075988  0.751632  0.458179  1
+  O  O14  1  0.424012  0.751632  0.541821  1
+  O  O15  1  0.924012  0.248368  0.541821  1
+  O  O16  1  0.575988  0.248368  0.458179  1
+  O  O17  1  0.935212  0.570792  0.542371  1
+  O  O18  1  0.564788  0.570792  0.457629  1
+  O  O19  1  0.064788  0.429209  0.457629  1
+  O  O20  1  0.435212  0.429209  0.542371  1

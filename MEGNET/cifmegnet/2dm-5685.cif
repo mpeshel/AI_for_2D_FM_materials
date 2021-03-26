@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr2FeCu2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10673469
+_cell_length_b   5.13474125
+_cell_length_c   29.59829300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.95626730
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2FeCu2O7
+_chemical_formula_sum   'Sr4 Fe2 Cu4 O14'
+_cell_volume   776.11914623
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr1  1  0.474947  0.502833  0.414051  1
+  Sr  Sr2  1  0.974832  0.997210  0.585967  1
+  Sr  Sr3  1  0.975100  0.997329  0.414048  1
+  Sr  Sr4  1  0.474669  0.502754  0.585970  1
+  Fe  Fe5  1  0.523888  0.063779  0.499947  1
+  Fe  Fe6  1  0.025089  0.435820  0.499979  1
+  Cu  Cu7  1  0.976984  0.499140  0.337428  1
+  Cu  Cu8  1  0.476649  0.000576  0.662451  1
+  Cu  Cu9  1  0.476967  0.000642  0.337524  1
+  Cu  Cu10  1  0.976668  0.499039  0.662568  1
+  O  O11  1  0.401785  0.417195  0.500008  1
+  O  O12  1  0.903727  0.086421  0.500006  1
+  O  O13  1  0.227292  0.749457  0.350988  1
+  O  O14  1  0.727065  0.750175  0.649050  1
+  O  O15  1  0.727441  0.750280  0.350941  1
+  O  O16  1  0.226883  0.749299  0.649009  1
+  O  O17  1  0.726456  0.250385  0.351754  1
+  O  O18  1  0.225934  0.249414  0.648287  1
+  O  O19  1  0.226363  0.249552  0.351707  1
+  O  O20  1  0.726027  0.250263  0.648239  1
+  O  O21  1  0.467295  0.985095  0.440448  1
+  O  O22  1  0.968080  0.513652  0.559185  1
+  O  O23  1  0.968255  0.513708  0.440851  1
+  O  O24  1  0.467068  0.984917  0.559591  1

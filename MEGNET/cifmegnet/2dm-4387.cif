@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_V2CuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60967980
+_cell_length_b   9.11260898
+_cell_length_c   23.82994200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   78.57772166
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2CuO6
+_chemical_formula_sum   'V2 Cu1 O6'
+_cell_volume   768.32780160
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V1  1  0.179252  0.637403  0.486008  1
+  V  V2  1  0.816916  0.362599  0.513985  1
+  Cu  Cu3  1  0.997637  0.999978  0.499999  1
+  O  O4  1  0.091418  0.813117  0.521850  1
+  O  O5  1  0.904389  0.186861  0.478160  1
+  O  O6  1  0.160486  0.675341  0.419878  1
+  O  O7  1  0.835759  0.324689  0.580125  1
+  O  O8  1  0.292411  0.411395  0.495808  1
+  O  O9  1  0.703734  0.588616  0.504188  1

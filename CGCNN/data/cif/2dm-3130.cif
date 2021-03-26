@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_B2S2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20475799
+_cell_length_b   4.42608925
+_cell_length_c   27.24608600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.35915299
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   B2S2O9
+_chemical_formula_sum   'B2 S2 O9'
+_cell_volume   446.21253136
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B1  1  0.835400  0.026628  0.454013  1
+  B  B2  1  0.808772  0.973372  0.545987  1
+  S  S3  1  0.513091  0.379778  0.414307  1
+  S  S4  1  0.133312  0.620222  0.585693  1
+  O  O5  1  0.664430  0.406209  0.367456  1
+  O  O6  1  0.258220  0.593791  0.632544  1
+  O  O7  1  0.515786  0.700724  0.434468  1
+  O  O8  1  0.815064  0.299276  0.565532  1
+  O  O9  1  0.699233  0.285071  0.455084  1
+  O  O10  1  0.414163  0.714929  0.544916  1
+  O  O11  1  0.116840  0.117533  0.414642  1
+  O  O12  1  0.999307  0.882467  0.585358  1
+  O  O13  1  0.959604  -0.000000  0.500000  1

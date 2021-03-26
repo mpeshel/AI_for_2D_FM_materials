@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Si3N4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83485896
+_cell_length_b   5.83485906
+_cell_length_c   19.97480900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999947
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si3N4
+_chemical_formula_sum   'Si3 N4'
+_cell_volume   588.94400072
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si1  1  0.015615  0.507342  0.500000  1
+  Si  Si2  1  0.491726  0.984385  0.500000  1
+  Si  Si3  1  0.492658  0.508274  0.500000  1
+  N  N4  1  0.666667  0.333333  0.500000  1
+  N  N5  1  0.165553  0.833457  0.500000  1
+  N  N6  1  0.166543  0.332098  0.500000  1
+  N  N7  1  0.667902  0.834446  0.500000  1

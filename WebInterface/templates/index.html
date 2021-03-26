@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Magnetic Property Predictor</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/static/css/style.css">
+
+</head>
+
+<body>
+ <div class="login">
+	<h1>Predict the Magnetism of a Material</h1>
+     <h3> Enter the following values to predict the magnetism of a material. If a certain value is not known, please enter NA.</h3>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="/predict"method="post">
+    	<input type="text" name="bandgap" placeholder="Band Gap" required="required" />
+    	<input type="text" name="noma" placeholder="Number of Magnetic Atoms" required="required" />
+    	<input type="text" name="Cr" placeholder= "Presence of Cr" required="required" />
+    	<input type="text" name="mic" placeholder="Maximum Ionic Character" required="required" />
+    	<input type="text" name="V" placeholder= "Presence of V" required="required" />
+    	<input type="text" name="Mn" placeholder= "Presence of Mn" required="required" />
+    	<input type="text" name="ade" placeholder= "Average d electrons" required="required" />
+    	<input type="text" name="O" placeholder= "Presence of O" required="required" />
+    	<input type="text" name="fse" placeholder= "Frac S Valence Electrons" required="required" />
+    	<input type="text" name= "energyperatom" placeholder= "Energy Per Atom" required ="required"/>
+    	<input type="text" name= "decompsotionenergy" placeholder= "Decomposition Energy" required ="required"/>
+    	<input type="text" name= "yangomega" placeholder= "Yang Omega" required ="required"/>
+    	<input type="text" name= "yangdelta" placeholder= "Yang Delta" required ="required"/>
+    	<input type="text" name="Mo" placeholder= "Presence of Mo" required="required" />
+    	<input type="text" name="bc" placeholder="Band Center" required="required" />
+    	<input type="text" name="Ag" placeholder= "Presence of Ag" required="required" />
+    	<input type="text" name="W" placeholder= "Presence of W" required="required" />
+    	<input type="text" name="aic" placeholder="Average Ionic Character" required="required" />
+                           
+        <button type="submit" class="btn">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+   
+   
+
+ </div>
+
+</body>
+</html>

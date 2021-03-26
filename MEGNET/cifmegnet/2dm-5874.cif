@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Li2V(CO3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.74744317
+_cell_length_b   9.49542025
+_cell_length_c   22.59437100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2V(CO3)3
+_chemical_formula_sum   'Li4 V2 C6 O18'
+_cell_volume   2091.24616721
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li1  1  0.027236  0.250000  0.512810  1
+  Li  Li2  1  0.299264  0.250000  0.468380  1
+  Li  Li3  1  0.700736  0.750000  0.468380  1
+  Li  Li4  1  0.972764  0.750000  0.512810  1
+  V  V5  1  0.699833  0.250000  0.494617  1
+  V  V6  1  0.300167  0.750000  0.494617  1
+  C  C7  1  0.803506  0.018168  0.482228  1
+  C  C8  1  0.480808  0.250000  0.543543  1
+  C  C9  1  0.803506  0.481832  0.482228  1
+  C  C10  1  0.196494  0.518168  0.482228  1
+  C  C11  1  0.519192  0.750000  0.543543  1
+  C  C12  1  0.196494  0.981832  0.482228  1
+  O  O13  1  0.693376  0.067993  0.454531  1
+  O  O14  1  0.158786  0.106756  0.478776  1
+  O  O15  1  0.860910  0.117507  0.513970  1
+  O  O16  1  0.370581  0.250000  0.569048  1
+  O  O17  1  0.607809  0.250000  0.568031  1
+  O  O18  1  0.495293  0.250000  0.484560  1
+  O  O19  1  0.860910  0.382493  0.513970  1
+  O  O20  1  0.158786  0.393244  0.478776  1
+  O  O21  1  0.693376  0.432007  0.454531  1
+  O  O22  1  0.306624  0.567993  0.454531  1
+  O  O23  1  0.841214  0.606756  0.478776  1
+  O  O24  1  0.139090  0.617507  0.513970  1
+  O  O25  1  0.392191  0.750000  0.568031  1
+  O  O26  1  0.629419  0.750000  0.569048  1
+  O  O27  1  0.504707  0.750000  0.484560  1
+  O  O28  1  0.139090  0.882493  0.513970  1
+  O  O29  1  0.841214  0.893244  0.478776  1
+  O  O30  1  0.306624  0.932007  0.454531  1

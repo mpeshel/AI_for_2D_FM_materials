@@ -1,0 +1,62 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-16 14:49:47 +0200 (Tue, 16 Feb 2016) $
+#$Revision: 176465 $
+#$URL: svn://www.crystallography.net/cod/cif/9/00/80/9008046.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9008046
+loop_
+_publ_author_name
+'Brakken, H.'
+'Scholten, W.'
+_publ_section_title
+;
+ Die kristallstruktur des quecksilberchlorids HgCl2
+;
+_journal_name_full               'Zeitschrift fur Kristallographie'
+_journal_page_first              448
+_journal_page_last               455
+_journal_volume                  89
+_journal_year                    1934
+_chemical_formula_structural     HgCl2
+_chemical_formula_sum            'Cl2 Hg'
+_space_group_IT_number           62
+_symmetry_space_group_name_Hall  '-P 2bc 2a'
+_symmetry_space_group_name_H-M   'P m n b'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_length_a                   5.963
+_cell_length_b                   12.735
+_cell_length_c                   4.325
+_cell_volume                     328.435
+_exptl_crystal_density_diffrn    10.981
+_cod_original_formula_sum        'Hg Cl2'
+_cod_database_code               9008046
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+1/2-x,y,z
+1/2+x,-y,-z
+1/2+x,1/2-y,1/2+z
+1/2-x,1/2+y,1/2-z
+x,1/2+y,1/2-z
+-x,1/2-y,1/2+z
+-x,-y,-z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Hg 0.00000 0.37600 0.05300
+Cl1 0.00000 0.51700 0.37500
+Cl2 0.00000 0.74200 0.77800
