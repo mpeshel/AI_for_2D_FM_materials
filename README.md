@@ -42,7 +42,7 @@ This package requires:
 If you are new to Python, the easiest way of installing the prerequisites is via [conda](https://conda.io/docs/index.html). Other minor requirements are mentioned in the requirements.txt document
 
 ## Files
-
+![alt text](http://url/to/img.png)
 
 ## Usage
 
